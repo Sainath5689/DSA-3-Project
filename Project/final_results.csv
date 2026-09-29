@@ -1,0 +1,1001 @@
+id,question_1,question_2,actual_label,predicted_label,similarity
+1,"How do I count rows in an SQL table?","How does ARP work?",1,0,0.0000
+2,"What is the best way to detect a cycle in a linked list?","What is a method for finding a loop in a linked list using a simple approach?",1,1,0.2338
+3,"What is the difference between BFS and DFS using a simple approach?","How are breadth-first search and depth-first search different step by step?",1,0,0.0000
+4,"How can I convert a string to an integer in Java?","How can I implement binary search?",1,0,0.0000
+5,"How can I reverse a linked list?","What is the difference between == and equals in Java?",1,0,0.0000
+6,"How can I add an event listener in JavaScript?","How can I update records in SQL?",1,0,0.0000
+7,"How can I find the maximum value in an integer array using a simple approach?","How do I get the largest element from an int array in Java in a program?",1,1,0.1099
+8,"What is the time complexity of merge sort step by step?","How much time complexity does merge sort have efficiently?",1,1,0.5079
+9,"What is a simple way to what is the difference between tcp and udp?","How do TCP and UDP differ in networking?",1,1,0.2917
+10,"How do I find the middle node of a linked list?","What is a way to locate the middle element in a linked list?",1,1,0.4375
+11,"How can I sort a list in Python?","What is a foreign key?",1,0,0.0000
+12,"What is a firewall?","What is the role of a firewall in a network?",1,1,0.3333
+13,"What is the difference between process and thread?","How can I implement a queue using two stacks?",1,0,0.0000
+14,"What is DNS?","What is the time complexity of binary search?",1,0,0.0000
+15,"What is normalization in DBMS?","How can I read a CSV file in Python?",1,0,0.0000
+16,"What is a simple way to implement a stack using an array?","How do I create a stack using an array data structure efficiently?",1,1,0.2778
+17,"What method can I use to convert a string to an integer in java?","How do I convert a String value into an int in Java in a program?",1,1,0.3643
+18,"What is the difference between == and equals in Java in a program?","How does == differ from equals() when comparing objects in Java efficiently?",1,1,0.2429
+19,"Can you explain how to count occurrences of an item in a python list?","What is the way to count how many times a value appears in a Python list step by step?",1,1,0.2654
+20,"How can I implement a queue using two stacks efficiently?","What is the approach for building a queue from two stacks?",1,1,0.5143
+21,"How can I what is a mac address?","Can you explain what a MAC address represents in a program?",1,1,0.4000
+22,"What is a MAC address efficiently?","Can you explain what a MAC address represents efficiently?",1,1,0.6000
+23,"What is virtual memory in a program?","Can you explain the concept of virtual memory in an operating system using a simple approach?",1,1,0.2361
+24,"How do I create a virtual environment in Python?","What is the procedure for creating a Python virtual environment?",1,1,0.4500
+25,"How do I handle exceptions in Python?","What is the correct way to handle errors with exceptions in Python?",1,1,0.5000
+26,"How do I find the largest number in a Python list?","What is the DOM in JavaScript?",1,0,0.0000
+27,"How can I what is a list comprehension in python?","Can you explain list comprehensions in Python in a program?",1,1,0.3667
+28,"What is the difference between HTML and CSS step by step?","How are HTML and CSS different in web development?",1,1,0.2667
+29,"What is an IP address?","How does the fork system call work?",1,0,0.0000
+30,"What is the best way to add an event listener in javascript?","What is the method for attaching an event listener using JavaScript in a program?",1,1,0.4167
+31,"How do I iterate through a HashMap in Java?","How do I check if a key exists in a Python dictionary?",1,0,0.0000
+32,"How can I change text color using CSS?","What CSS property is used to change the color of text?",1,1,0.5000
+33,"What is context switching?","How do I find the largest number in a Python list?",1,0,0.0000
+34,"How can I implement a min heap step by step?","What is the approach for implementing a minimum heap step by step?",1,1,0.4375
+35,"How can I find the maximum value in an integer array?","What is the DOM in JavaScript?",1,0,0.0000
+36,"How can I find the length of an array in Java efficiently?","How do I get the number of elements in a Java array in a program?",1,1,0.1944
+37,"How do I check if a key exists in a Python dictionary?","How can I test whether a dictionary contains a specific key in Python?",1,1,0.2929
+38,"What method can I use to what is dns?","What is the purpose of the Domain Name System using a simple approach?",1,0,0.0000
+39,"How can I reverse a list in Python?","What is the easiest way to reverse a list using Python in a program?",1,1,0.5000
+40,"How do I create a virtual environment in Python?","What is an index in a database?",1,0,0.0000
+41,"How can I load an external CSS file?","What is the difference between BFS and DFS?",1,0,0.0000
+42,"How can I implement binary search?","What is the method for implementing binary search in a program?",1,1,0.3667
+43,"What is the difference between DELETE and TRUNCATE?","How can I check if a string contains a substring in Python?",1,0,0.0000
+44,"Can you explain how to implement a min heap?","What is the approach for implementing a minimum heap in a program?",1,1,0.1625
+45,"How do I find the middle node of a linked list using a simple approach?","What is a way to locate the middle element in a linked list efficiently?",1,1,0.3506
+46,"How can I check whether a string contains a word in Java efficiently?","How do I test if a Java String contains a particular word efficiently?",1,1,0.5000
+47,"What is a simple way to detect a cycle in a linked list?","What is a method for finding a loop in a linked list?",1,1,0.2778
+48,"How can I change a font size with css?","What CSS property controls the size of text using a simple approach?",1,1,0.1825
+49,"How can I change an element's background color with CSS?","How does DHCP work?",1,0,0.0000
+50,"How do I create a virtual environment in Python?","What are ACID properties?",1,0,0.0000
+51,"How can I remove duplicate elements from an ArrayList efficiently?","How do I eliminate duplicate values from an ArrayList in Java efficiently?",1,1,0.4375
+52,"What is context switching?","How can I sort a list in Python?",1,0,0.0000
+53,"What method can I use to create a button in html?","What HTML code is used to create a button step by step?",1,1,0.3095
+54,"How can I add an event listener in JavaScript using a simple approach?","What is the method for attaching an event listener using JavaScript?",1,1,0.4375
+55,"How can I convert a string to lowercase in Python in a program?","How do I change a Python string to lowercase step by step?",1,1,0.3542
+56,"What is the best way to what is a system call?","Can you explain what a system call is in an operating system?",1,1,0.4167
+57,"How do I create a virtual environment in Python?","How do I sort an array in Java?",1,0,0.0000
+58,"What is DNS using a simple approach?","What is the purpose of the Domain Name System efficiently?",1,0,0.0000
+59,"How can I convert a string to an integer in Java?","How do I convert a String value into an int in Java?",1,1,0.4643
+60,"What is the difference between process and thread?","How does a process differ from a thread in an operating system using a simple approach?",1,1,0.2540
+61,"How do I find the length of a list in Python?","What is deadlock in operating systems?",1,0,0.0000
+62,"What is a router?","How do I check if a key exists in a Python dictionary?",1,0,0.0000
+63,"How do I create a thread in Java?","What is a race condition?",1,0,0.0000
+64,"How can I validate an html form using javascript?","What is a way to validate form inputs with JavaScript efficiently?",1,1,0.4643
+65,"What is an IP address?","How do I find duplicate rows using SQL?",1,0,0.0000
+66,"What is a network topology?","What is CPU scheduling?",1,0,0.0000
+67,"How do I what is packet switching?","Can you explain packet switching in computer networks step by step?",1,1,0.2857
+68,"What is the DOM in JavaScript?","How do I count rows in an SQL table?",1,0,0.0000
+69,"How do I add JavaScript to an HTML page?","How can I merge two dictionaries in Python?",1,0,0.0000
+70,"What is a simple way to what is a subnet mask?","What is the purpose of a subnet mask in networking?",1,1,0.4167
+71,"What method can I use to change a font size with css?","What CSS property controls the size of text step by step?",1,1,0.1623
+72,"How do I what is the time complexity of binary search?","How much time does binary search take in terms of complexity step by step?",1,1,0.3889
+73,"How can I detect duplicate elements in an array in a program?","What is a method for finding repeated values in an array using a simple approach?",1,1,0.1169
+74,"How do I iterate through a HashMap in Java in a program?","What is the correct way to loop over a HashMap in Java using a simple approach?",1,1,0.2159
+75,"What method can I use to what is a composite key?","Can you explain the meaning of a composite key in DBMS?",1,1,0.3429
+76,"What is the difference between TCP and UDP?","How can I update records in SQL?",1,0,0.0000
+77,"How can I reverse a linked list?","How can I add an event listener in JavaScript?",1,0,0.0000
+78,"What is the difference between IPv4 and IPv6?","How do I create a dropdown menu in HTML?",1,0,0.0000
+79,"How do I make a website responsive?","What is a race condition?",1,0,0.0000
+80,"What is a firewall?","What is a system call?",1,0,0.0000
+81,"How can I what is the difference between delete and truncate?","How are SQL DELETE and TRUNCATE different efficiently?",1,1,0.2917
+82,"How can I reverse a linked list?","What is the procedure to reverse a linked list?",1,1,0.7500
+83,"How do I remove duplicates from a Python list in a program?","What is a simple way to eliminate duplicate values from a list in Python in a program?",1,1,0.2750
+84,"What method can I use to add an event listener in javascript?","What is the method for attaching an event listener using JavaScript using a simple approach?",1,1,0.5079
+85,"How do I sort an array in Java in a program?","What is the easiest way to sort an array using Java using a simple approach?",1,1,0.4018
+86,"How do I make a website responsive?","How can I reverse a list in Python?",1,0,0.0000
+87,"How can I what is deadlock in operating systems?","Can you explain the concept of deadlock in OS in a program?",1,1,0.1714
+88,"What is the difference between WHERE and HAVING?","What is a subnet mask?",1,0,0.0000
+89,"How does ARP work in a program?","Can you explain the working of the Address Resolution Protocol?",1,0,0.0000
+90,"How can I validate an HTML form using JavaScript?","How do I remove an item from a Python list?",1,0,0.0000
+91,"How do I detect a cycle in a linked list?","How do I find the length of a list in Python?",1,1,0.1964
+92,"How can I remove a table from a database?","How do I detect a cycle in a linked list?",1,0,0.0000
+93,"How can I find the height of a binary tree?","How can I update records in SQL?",1,0,0.0000
+94,"How do I count rows in an SQL table?","What SQL query can I use to count records in a table?",1,1,0.3810
+95,"Can you explain how to select an element by id in javascript?","What is the JavaScript method for selecting an element using its ID using a simple approach?",1,1,0.2614
+96,"How can I update records in SQL?","How does round robin scheduling work?",1,0,0.0000
+97,"How do I count rows in an SQL table?","How can I implement a queue using two stacks?",1,0,0.0000
+98,"How do I split a string in Java?","How do I make a website responsive?",1,0,0.0000
+99,"What is the DOM in JavaScript?","Can you explain the Document Object Model in JavaScript?",1,1,0.1833
+100,"What method can I use to what is virtual memory?","Can you explain the concept of virtual memory in an operating system efficiently?",1,1,0.2540
+101,"How do I how does round robin scheduling work?","What is the working principle of round robin CPU scheduling in a program?",1,1,0.4018
+102,"What is a simple way to find the length of an array in java?","How do I get the number of elements in a Java array step by step?",1,1,0.1623
+103,"How do I sort an array in Java?","How do I find the length of a list in Python?",1,0,0.0000
+104,"What is a simple way to what is normalization in dbms?","What does database normalization mean?",1,1,0.2083
+105,"How can I implement binary search efficiently?","What is the method for implementing binary search step by step?",1,1,0.2917
+106,"What is the difference between == and equals in Java?","What is demand paging?",1,0,0.0000
+107,"What is a simple way to what is paging in operating systems?","Can you explain how paging works in OS memory management in a program?",1,1,0.1169
+108,"How do I remove duplicates from a Python list?","What is virtual memory?",1,0,0.0000
+109,"What is the best way to center a div using css?","What is the best way to horizontally and vertically center a div in CSS in a program?",1,1,0.6250
+110,"What is the difference between BFS and DFS efficiently?","How are breadth-first search and depth-first search different in a program?",1,0,0.0000
+111,"What is deadlock in operating systems efficiently?","Can you explain the concept of deadlock in OS step by step?",1,1,0.1389
+112,"How can I validate an HTML form using JavaScript?","What is a list comprehension in Python?",1,0,0.0000
+113,"Can you explain how to create a button in html?","What HTML code is used to create a button?",1,1,0.4500
+114,"How do I detect a cycle in a linked list?","What is a method for finding a loop in a linked list?",1,1,0.3429
+115,"What method can I use to add an event listener in javascript?","What is the method for attaching an event listener using JavaScript using a simple approach?",1,1,0.5079
+116,"How can I detect duplicate elements in an array?","How can I check whether a string contains a word in Java?",1,0,0.0000
+117,"What is the difference between == and equals in Java step by step?","How does == differ from equals() when comparing objects in Java step by step?",1,1,0.4500
+118,"What is the best way to implement binary search?","What is the method for implementing binary search using a simple approach?",1,1,0.2778
+119,"How do I add JavaScript to an HTML page step by step?","What is the correct way to include JavaScript in an HTML document efficiently?",1,1,0.2338
+120,"What is deadlock in operating systems?","What is DNS?",1,0,0.0000
+121,"What is a semaphore in OS?","What is a primary key in DBMS?",1,0,0.0000
+122,"What is a race condition?","How do I check if a key exists in a Python dictionary?",1,0,0.0000
+123,"How can I sort a list in Python?","How do I perform an inorder traversal of a binary tree?",1,0,0.0000
+124,"Can you explain how to reverse a list in python?","What is the easiest way to reverse a list using Python?",1,1,0.5500
+125,"What is latency in networking?","What is the difference between WHERE and HAVING?",1,0,0.0000
+126,"What is an IP address?","Can you explain what an IP address is in computer networking efficiently?",1,1,0.3333
+127,"What is packet switching?","How do I perform an inorder traversal of a binary tree?",1,0,0.0000
+128,"How can I read a CSV file in Python?","What is a router?",1,0,0.0000
+129,"What is the difference between WHERE and HAVING?","How can I reverse a linked list?",1,0,0.0000
+130,"How can I change an element's background color with css?","What CSS property changes the background color of an element using a simple approach?",1,1,0.3250
+131,"How can I find the maximum value in an integer array efficiently?","How do I get the largest element from an int array in Java step by step?",1,1,0.1010
+132,"How can I join two tables in SQL?","How can I add an event listener in JavaScript?",1,0,0.0000
+133,"How can I add an event listener in JavaScript?","What is an IP address?",1,0,0.0000
+134,"What is demand paging?","What is a subnet mask?",1,0,0.0000
+135,"What is the best way to what is a process in an operating system?","Can you explain what a process means in an operating system step by step?",1,1,0.3810
+136,"What is a simple way to what is the time complexity of merge sort?","How much time complexity does merge sort have in a program?",1,1,0.5079
+137,"How do I add JavaScript to an HTML page?","What is a composite key?",1,0,0.0000
+138,"How can I find the height of a binary tree?","How can I count occurrences of an item in a Python list?",1,0,0.0000
+139,"How do I find the middle node of a linked list efficiently?","What is a way to locate the middle element in a linked list in a program?",1,1,0.3643
+140,"How does the fork system call work?","How do I handle exceptions in Python?",1,0,0.0000
+141,"What is an IP address?","How do I iterate through a HashMap in Java?",1,0,0.0000
+142,"What is method overloading in Java?","How can I implement a queue using two stacks?",1,0,0.0000
+143,"How do I remove an item from a Python list?","How can I create a button in HTML?",1,0,0.0000
+144,"What is a composite key step by step?","Can you explain the meaning of a composite key in DBMS step by step?",1,1,0.5714
+145,"How do I add javascript to an html page?","What is the correct way to include JavaScript in an HTML document efficiently?",1,1,0.2540
+146,"How do I find the middle node of a linked list?","What is a way to locate the middle element in a linked list in a program?",1,1,0.3810
+147,"How do I create a thread in Java?","What are the ways to create a thread using Java?",1,1,0.6000
+148,"What is the difference between WHERE and HAVING?","How does the SQL WHERE clause differ from HAVING?",1,1,0.3429
+149,"Can you explain how to remove duplicates from a python list?","What is a simple way to eliminate duplicate values from a list in Python in a program?",1,1,0.1534
+150,"How can I check if a string contains a substring in Python?","What is the difference between HTML and CSS?",1,0,0.0000
+151,"How can I reverse a string in Java in a program?","What is the best way to reverse a String using Java using a simple approach?",1,1,0.4018
+152,"What is a list comprehension in Python?","How can I find the maximum value in an integer array?",1,0,0.0000
+153,"How does round robin scheduling work?","What is a firewall?",1,0,0.0000
+154,"How can I find the length of a list in python?","How can I get the number of items in a Python list using a simple approach?",1,1,0.1825
+155,"What is a race condition step by step?","Can you explain race conditions in operating systems step by step?",1,1,0.4018
+156,"How do I find duplicate rows using SQL?","How can I reverse a linked list?",1,0,0.0000
+157,"What are ACID properties?","How can I add an event listener in JavaScript?",1,0,0.0000
+158,"What is a process in an operating system?","How can I create a button in HTML?",1,0,0.0000
+159,"How can I perform an inorder traversal of a binary tree?","What is the procedure for inorder traversal in a binary tree?",1,1,0.7333
+160,"How can I load an external CSS file?","How do I sort an array in Java?",1,0,0.0000
+161,"What is the difference between BFS and DFS?","How can I merge two dictionaries in Python?",1,0,0.0000
+162,"What are ACID properties?","What do the ACID properties of database transactions mean?",1,1,0.3667
+163,"How does DHCP work?","What is deadlock in operating systems?",1,0,0.0000
+164,"What is the difference between DELETE and TRUNCATE?","How are SQL DELETE and TRUNCATE different?",1,1,0.3429
+165,"What method can I use to find the middle node of a linked list?","What is a way to locate the middle element in a linked list efficiently?",1,1,0.3506
+166,"What is a race condition?","How does DHCP work?",1,0,0.0000
+167,"How do I detect a cycle in a linked list?","How can I add an event listener in JavaScript?",1,0,0.0000
+168,"How does ARP work?","How do I make a website responsive?",1,0,0.0000
+169,"How can I implement binary search?","What is a transaction in DBMS?",1,0,0.0000
+170,"How do I iterate through a HashMap in Java?","How can I join two tables in SQL?",1,0,0.0000
+171,"How can I find the shortest path in a graph?","What is a process in an operating system?",1,0,0.0000
+172,"How do I find the length of a list in Python?","How can I remove duplicate elements from an ArrayList?",1,0,0.0000
+173,"What is an IP address?","How can I count occurrences of an item in a Python list?",1,0,0.0000
+174,"What is a composite key?","Can you explain the meaning of a composite key in DBMS?",1,1,0.4000
+175,"What is a critical section?","How do I iterate through a HashMap in Java?",1,0,0.0000
+176,"How do I read a file line by line in Java?","How can I validate an HTML form using JavaScript?",1,0,0.0000
+177,"How can I find the length of an array in Java?","How do I find the length of a list in Python?",1,1,0.4167
+178,"What is demand paging?","How does demand paging work in virtual memory?",1,1,0.4000
+179,"How do I select an element by ID in JavaScript?","How does round robin scheduling work?",1,0,0.0000
+180,"How can I find the length of an array in Java?","What is a composite key?",1,0,0.0000
+181,"What is a critical section?","How can I find the shortest path in a graph?",1,0,0.0000
+182,"What is the difference between TCP and UDP step by step?","How do TCP and UDP differ in networking?",1,1,0.2917
+183,"How can I change text color using CSS?","What is a firewall?",1,0,0.0000
+184,"What is context switching?","What happens during a context switch in an operating system?",1,1,0.1548
+185,"How do I count rows in an SQL table?","How can I remove duplicate elements from an ArrayList?",1,0,0.0000
+186,"What is a transaction in DBMS?","What is paging in operating systems?",1,0,0.0000
+187,"What is a process in an operating system?","Can you explain what a process means in an operating system?",1,1,0.6000
+188,"What method can I use to what is the time complexity of merge sort?","How much time complexity does merge sort have in a program?",1,1,0.5079
+189,"How can I convert a string to lowercase in Python?","How do I add JavaScript to an HTML page?",1,0,0.0000
+190,"How do I find the largest number in a Python list?","How do I select an element by ID in JavaScript?",1,0,0.0000
+191,"How do I select an element by ID in JavaScript?","How can I find the maximum value in an integer array?",1,0,0.0000
+192,"How does round robin scheduling work?","What is packet switching?",1,0,0.0000
+193,"How can I find the shortest path in a graph?","What is an index in a database?",1,0,0.0000
+194,"How can I count occurrences of an item in a Python list?","How does the fork system call work?",1,0,0.0000
+195,"What is a race condition?","What is an IP address?",1,0,0.0000
+196,"How can I load an external css file?","What is the correct way to link an external stylesheet to HTML?",1,1,0.1389
+197,"How do I make a website responsive?","What is dynamic programming in algorithms?",1,0,0.0000
+198,"Can you explain how to change text color using css?","What CSS property is used to change the color of text?",1,1,0.4524
+199,"What method can I use to how does arp work?","Can you explain the working of the Address Resolution Protocol?",1,0,0.0000
+200,"How does ARP work?","How can I count occurrences of an item in a Python list?",1,0,0.0000
+201,"What is a firewall?","How can I merge two dictionaries in Python?",1,0,0.0000
+202,"What is a system call using a simple approach?","Can you explain what a system call is in an operating system?",1,1,0.4167
+203,"What is the difference between HTML and CSS?","How do I perform an inorder traversal of a binary tree?",1,0,0.0000
+204,"How do I remove duplicates from a Python list?","What is deadlock in operating systems?",1,0,0.0000
+205,"How do I create a virtual environment in Python?","What is a router?",1,0,0.0000
+206,"What is latency in networking?","What is normalization in DBMS?",1,0,0.0000
+207,"How do I what is a composite key?","Can you explain the meaning of a composite key in DBMS efficiently?",1,1,0.3333
+208,"How does the fork system call work?","How do I handle exceptions in Python?",1,0,0.0000
+209,"What method can I use to check whether a string contains a word in java?","How do I test if a Java String contains a particular word efficiently?",1,1,0.3542
+210,"How can I handle exceptions in Java?","How does HTTP work?",1,0,0.0000
+211,"What is the difference between == and equals in Java efficiently?","How does == differ from equals() when comparing objects in Java?",1,1,0.2778
+212,"What is a critical section?","What does the critical section mean in process synchronization?",1,1,0.4000
+213,"How can I what is dns?","What is the purpose of the Domain Name System step by step?",1,0,0.0000
+214,"What is the best way to find the maximum value in an integer array?","How do I get the largest element from an int array in Java efficiently?",1,1,0.1099
+215,"How can I detect duplicate elements in an array efficiently?","What is a method for finding repeated values in an array efficiently?",1,1,0.2778
+216,"How can I find duplicate rows using sql?","What SQL query can be used to identify duplicate records?",1,1,0.2083
+217,"What is the best way to how does arp work?","Can you explain the working of the Address Resolution Protocol step by step?",1,0,0.0000
+218,"Can you explain how to what is the difference between html and css?","How are HTML and CSS different in web development step by step?",1,1,0.2159
+219,"What method can I use to count occurrences of an item in a python list?","What is the way to count how many times a value appears in a Python list in a program?",1,1,0.2821
+220,"How can I add an event listener in JavaScript?","How do I split a string in Java?",1,0,0.0000
+221,"How do I create a thread in Java?","How can I add an event listener in JavaScript?",1,0,0.0000
+222,"What is an IP address?","How do I check if a key exists in a Python dictionary?",1,0,0.0000
+223,"What is a simple way to how does round robin scheduling work?","What is the working principle of round robin CPU scheduling step by step?",1,1,0.3239
+224,"How can I create a dropdown menu in html?","What HTML element can be used to create a dropdown list step by step?",1,1,0.2917
+225,"How do I create a thread in Java?","What is a router?",1,0,0.0000
+226,"What is an IP address?","How can I merge two dictionaries in Python?",1,0,0.0000
+227,"What is a firewall in a program?","What is the role of a firewall in a network using a simple approach?",1,1,0.1833
+228,"What is virtual memory?","What is a network topology?",1,0,0.0000
+229,"How do I detect a cycle in a linked list?","How do I center a div using CSS?",1,0,0.0000
+230,"How can I change an element's background color with CSS?","How can I handle exceptions in Java?",1,0,0.0000
+231,"What is a firewall?","What is a system call?",1,0,0.0000
+232,"What is the best way to what is the difference between == and equals in java?","How does == differ from equals() when comparing objects in Java using a simple approach?",1,1,0.2083
+233,"How do I make a website responsive step by step?","What techniques can I use to make a web page responsive?",1,1,0.2778
+234,"How do I read a file line by line in Java?","What is the method for reading a file one line at a time in Java?",1,1,0.3375
+235,"How can I check whether a string contains a word in Java?","What is DNS?",1,0,0.0000
+236,"How can I handle exceptions in Java?","What is the difference between BFS and DFS?",1,0,0.0000
+237,"What is the best way to make a website responsive?","What techniques can I use to make a web page responsive?",1,1,0.2778
+238,"What is a subnet mask?","How do I create a virtual environment in Python?",1,0,0.0000
+239,"How can I detect duplicate elements in an array?","How do I create a virtual environment in Python?",1,0,0.0000
+240,"What is an index in a database?","How can I reverse a string in Java?",1,0,0.0000
+241,"How do I what is a system call?","Can you explain what a system call is in an operating system?",1,1,0.5000
+242,"What is method overloading in Java?","Can you explain method overloading with Java methods using a simple approach?",1,1,0.4286
+243,"How can I add an event listener in JavaScript?","What is the method for attaching an event listener using JavaScript?",1,1,0.5500
+244,"How do I add JavaScript to an HTML page step by step?","What is the correct way to include JavaScript in an HTML document using a simple approach?",1,1,0.2083
+245,"How do I hide an element using CSS?","What CSS can I use to make an element invisible?",1,1,0.2667
+246,"How do I what is a network topology?","What does network topology mean step by step?",1,1,0.4000
+247,"How can I implement a stack using an array?","How do I remove an item from a Python list?",1,0,0.0000
+248,"What is a simple way to create a button in html?","What HTML code is used to create a button in a program?",1,1,0.3542
+249,"How can I check if a string contains a substring in Python using a simple approach?","How do I test whether a Python string contains another string?",1,1,0.2614
+250,"What is a subnet mask?","How do I find the largest number in a Python list?",1,0,0.0000
+251,"What is a foreign key?","How can I convert a string to an integer in Java?",1,0,0.0000
+252,"What is a subnet mask?","What is the purpose of a subnet mask in networking?",1,1,0.5000
+253,"What is the difference between BFS and DFS?","What is a primary key in DBMS?",1,0,0.0000
+254,"What is a race condition?","How do I select an element by ID in JavaScript?",1,0,0.0000
+255,"How do I detect a cycle in a linked list using a simple approach?","What is a method for finding a loop in a linked list using a simple approach?",1,1,0.5079
+256,"How do I find the length of a list in Python?","What is the difference between process and thread?",1,0,0.0000
+257,"What is a thread in OS?","What is the difference between IPv4 and IPv6?",1,0,0.0000
+258,"What is a simple way to convert an arraylist to an array?","What is the way to convert an ArrayList into an array in Java?",1,1,0.6190
+259,"Can you explain how to what is the difference between bfs and dfs?","How are breadth-first search and depth-first search different efficiently?",1,0,0.0000
+260,"What is the difference between TCP and UDP using a simple approach?","How do TCP and UDP differ in networking efficiently?",1,1,0.2778
+261,"How can I convert a string to lowercase in Python?","How do I change a Python string to lowercase?",1,1,0.5500
+262,"What is virtual memory?","Can you explain the concept of virtual memory in an operating system?",1,1,0.3333
+263,"How can I create a button in HTML?","What HTML code is used to create a button?",1,1,0.5000
+264,"What are ACID properties?","How can I read a CSV file in Python?",1,0,0.0000
+265,"How do I handle exceptions in Python?","How can I remove a table from a database?",1,0,0.0000
+266,"How do I change a font size with CSS?","What is packet switching?",1,0,0.0000
+267,"How can I change text color using CSS?","How do I perform an inorder traversal of a binary tree?",1,0,0.0000
+268,"What is an IP address?","How can I find the maximum value in an integer array?",1,0,0.0000
+269,"What is a simple way to what is a router?","What is the function of a router in a computer network in a program?",1,1,0.1714
+270,"Can you explain how to what is the difference between delete and truncate?","How are SQL DELETE and TRUNCATE different using a simple approach?",1,1,0.2429
+271,"How do I perform an inorder traversal of a binary tree efficiently?","What is the procedure for inorder traversal in a binary tree?",1,1,0.6190
+272,"What is demand paging?","How do I check if a key exists in a Python dictionary?",1,0,0.0000
+273,"How do I make a website responsive step by step?","What techniques can I use to make a web page responsive efficiently?",1,1,0.2429
+274,"How can I count occurrences of an item in a Python list?","What is a router?",1,0,0.0000
+275,"How do I find the largest number in a Python list?","What is a MAC address?",1,0,0.0000
+276,"What is a subnet mask?","How do I convert an ArrayList to an array?",1,0,0.0000
+277,"How can I count occurrences of an item in a Python list?","How can I join two tables in SQL?",1,0,0.0000
+278,"How do I sort query results in SQL?","What is the difference between IPv4 and IPv6?",1,0,0.0000
+279,"How can I implement a min heap efficiently?","What is the approach for implementing a minimum heap efficiently?",1,1,0.3429
+280,"How can I reverse a linked list?","How can I add an event listener in JavaScript?",1,0,0.0000
+281,"How do I perform an inorder traversal of a binary tree?","How can I sort a list in Python?",1,0,0.0000
+282,"What is demand paging?","How do I hide an element using CSS?",1,0,0.0000
+283,"What is the difference between DELETE and TRUNCATE?","What is a subnet mask?",1,0,0.0000
+284,"What is a critical section in a program?","What does the critical section mean in process synchronization step by step?",1,1,0.2679
+285,"How can I how does round robin scheduling work?","What is the working principle of round robin CPU scheduling in a program?",1,1,0.4018
+286,"What is the difference between == and equals in Java?","What is the time complexity of merge sort?",1,0,0.0000
+287,"How do I make a website responsive?","How can I check if a string contains a substring in Python?",1,0,0.0000
+288,"What is a foreign key?","How can I merge two dictionaries in Python?",1,0,0.0000
+289,"How do I handle exceptions in Python?","What is paging in operating systems?",1,0,0.0000
+290,"What is a primary key in DBMS?","What is method overloading in Java?",1,0,0.0000
+291,"What is DNS?","What is the purpose of the Domain Name System?",1,0,0.0000
+292,"How do I find the middle node of a linked list?","How do I create a dropdown menu in HTML?",1,0,0.0000
+293,"Can you explain how to what is cpu scheduling?","Can you explain CPU scheduling in an operating system step by step?",1,1,0.4286
+294,"How does round robin scheduling work in a program?","What is the working principle of round robin CPU scheduling using a simple approach?",1,1,0.3375
+295,"How do I sort query results in SQL?","What is the difference between HTML and CSS?",1,0,0.0000
+296,"How can I check if a string contains a substring in Python?","How do I change a font size with CSS?",1,0,0.0000
+297,"How can I find the length of an array in Java?","What is the difference between WHERE and HAVING?",1,0,0.0000
+298,"What method can I use to what is a semaphore in os?","What is the purpose of a semaphore in operating systems using a simple approach?",1,1,0.1389
+299,"How can I convert a string to an integer in Java step by step?","How do I convert a String value into an int in Java?",1,1,0.4167
+300,"What is the difference between WHERE and HAVING?","What is a thread in OS?",1,0,0.0000
+301,"How can I find the shortest path in a graph?","What algorithms can be used to determine the shortest path in a graph using a simple approach?",1,1,0.3542
+302,"How do I find the largest number in a Python list?","What is context switching?",1,0,0.0000
+303,"How do I perform an inorder traversal of a binary tree?","What is the procedure for inorder traversal in a binary tree in a program?",1,1,0.6190
+304,"How can I reverse a linked list?","What is the procedure to reverse a linked list step by step?",1,1,0.5000
+305,"How do I find duplicate rows using SQL efficiently?","What SQL query can be used to identify duplicate records?",1,1,0.1944
+306,"How can I detect duplicate elements in an array?","How do I select an element by ID in JavaScript?",1,0,0.0000
+307,"What method can I use to reverse a list in python?","What is the easiest way to reverse a list using Python efficiently?",1,1,0.4375
+308,"What is the difference between HTML and CSS?","How can I implement a stack using an array?",1,0,0.0000
+309,"What is normalization in DBMS?","What does database normalization mean?",1,1,0.2917
+310,"Can you explain how to create a button in html?","What HTML code is used to create a button using a simple approach?",1,1,0.3304
+311,"What is a MAC address?","How can I implement a stack using an array?",1,0,0.0000
+312,"How do I split a string in Java using a simple approach?","What method can I use to split a String into parts in Java?",1,1,0.3810
+313,"What method can I use to implement a min heap?","What is the approach for implementing a minimum heap using a simple approach?",1,1,0.1556
+314,"How can I check whether a string contains a word in java?","How do I test if a Java String contains a particular word using a simple approach?",1,1,0.3485
+315,"How can I read a CSV file in Python?","How can I find the maximum value in an integer array?",1,0,0.0000
+316,"How do I create a virtual environment in Python?","How do I find duplicate rows using SQL?",1,0,0.0000
+317,"What is a semaphore in OS?","How do I find duplicate rows using SQL?",1,0,0.0000
+318,"How do I split a string in Java efficiently?","What method can I use to split a String into parts in Java?",1,1,0.4018
+319,"What is context switching using a simple approach?","What happens during a context switch in an operating system using a simple approach?",1,1,0.3542
+320,"What is a router step by step?","What is the function of a router in a computer network efficiently?",1,1,0.1714
+321,"How can I find the maximum value in an integer array?","How do I get the largest element from an int array in Java?",1,1,0.1333
+322,"How do I find the middle node of a linked list efficiently?","What is a way to locate the middle element in a linked list efficiently?",1,1,0.5079
+323,"How can I convert a string to lowercase in Python?","How do I perform an inorder traversal of a binary tree?",1,0,0.0000
+324,"What is the best way to how does round robin scheduling work?","What is the working principle of round robin CPU scheduling efficiently?",1,1,0.3643
+325,"What method can I use to what is the difference between process and thread?","How does a process differ from a thread in an operating system?",1,1,0.2778
+326,"What is demand paging step by step?","How does demand paging work in virtual memory step by step?",1,1,0.5714
+327,"What is a transaction in DBMS efficiently?","Can you explain the concept of a database transaction efficiently?",1,1,0.3667
+328,"How does DHCP work?","How can I convert a string to an integer in Java?",1,0,0.0000
+329,"How do I center a div using CSS?","How do I sort an array in Java?",1,0,0.0000
+330,"What is deadlock in operating systems?","How do I find the length of a list in Python?",1,0,0.0000
+331,"How do I remove an item from a Python list?","What is virtual memory?",1,0,0.0000
+332,"How can I find the shortest path in a graph?","What is an index in a database?",1,0,0.0000
+333,"What is a race condition?","How do I count rows in an SQL table?",1,0,0.0000
+334,"How does the fork system call work?","How can I check if a string contains a substring in Python?",1,0,0.0000
+335,"How do I handle exceptions in Python?","What is the difference between WHERE and HAVING?",1,0,0.0000
+336,"How do I check if a key exists in a Python dictionary?","How can I test whether a dictionary contains a specific key in Python in a program?",1,1,0.2614
+337,"How do I sort an array in java?","What is the easiest way to sort an array using Java in a program?",1,1,0.5000
+338,"How do I find the largest number in a Python list?","How can I get the maximum value from a list in Python?",1,1,0.2250
+339,"How can I join two tables in SQL?","What is the correct way to combine two tables using an SQL join?",1,1,0.5000
+340,"What is the best way to what is a thread in os?","What does a thread represent in an operating system in a program?",1,1,0.1625
+341,"How can I convert a string to lowercase in Python?","What is packet switching?",1,0,0.0000
+342,"What is a simple way to create a virtual environment in python?","What is the procedure for creating a Python virtual environment in a program?",1,1,0.3333
+343,"What method can I use to what is the time complexity of merge sort?","How much time complexity does merge sort have using a simple approach?",1,1,0.4500
+344,"What is the difference between IPv4 and IPv6?","How can I change an element's background color with CSS?",1,0,0.0000
+345,"How does ARP work?","How do I find the length of a list in Python?",1,0,0.0000
+346,"How can I load an external CSS file?","How do I check if a key exists in a Python dictionary?",1,0,0.0000
+347,"How do I what is virtual memory?","Can you explain the concept of virtual memory in an operating system step by step?",1,1,0.2500
+348,"How can I create a button in HTML?","What is a foreign key?",1,0,0.0000
+349,"What is a MAC address?","How do I find the middle node of a linked list?",1,0,0.0000
+350,"How can I join two tables in SQL using a simple approach?","What is the correct way to combine two tables using an SQL join?",1,1,0.4365
+351,"How can I load an external CSS file?","What is a semaphore in OS?",1,0,0.0000
+352,"How do I sort an array in Java?","What is a MAC address?",1,0,0.0000
+353,"How do I change a font size with CSS step by step?","What CSS property controls the size of text?",1,1,0.1944
+354,"How can I find the height of a binary tree?","What is a semaphore in OS?",1,0,0.0000
+355,"Can you explain how to what is a subnet mask?","What is the purpose of a subnet mask in networking?",1,1,0.4500
+356,"How can I sort a list in Python?","How can I validate an HTML form using JavaScript?",1,0,0.0000
+357,"What are ACID properties?","How do I hide an element using CSS?",1,0,0.0000
+358,"What is a race condition?","How can I find the height of a binary tree?",1,0,0.0000
+359,"How can I reverse a list in Python?","What is the easiest way to reverse a list using Python?",1,1,0.6000
+360,"What is a simple way to what is the difference between tcp and udp?","How do TCP and UDP differ in networking?",1,1,0.2917
+361,"What method can I use to what is the time complexity of binary search?","How much time does binary search take in terms of complexity efficiently?",1,1,0.3875
+362,"What is a simple way to what is a process in an operating system?","Can you explain what a process means in an operating system efficiently?",1,1,0.4375
+363,"How can I what is dynamic programming in algorithms?","Can you explain the concept of dynamic programming in DSA?",1,1,0.3667
+364,"What is a critical section?","What is the difference between HTML and CSS?",1,0,0.0000
+365,"What is a router?","What is the function of a router in a computer network?",1,1,0.2500
+366,"How do I change a font size with CSS?","What is a subnet mask?",1,0,0.0000
+367,"How does DHCP work?","Can you explain how DHCP assigns network configuration?",1,1,0.1833
+368,"What is the best way to detect duplicate elements in an array?","What is a method for finding repeated values in an array using a simple approach?",1,1,0.1131
+369,"How does ARP work?","Can you explain the working of the Address Resolution Protocol?",1,0,0.0000
+370,"What is the best way to how does round robin scheduling work?","What is the working principle of round robin CPU scheduling efficiently?",1,1,0.3643
+371,"What is a network topology?","How can I create a button in HTML?",1,0,0.0000
+372,"How can I find the height of a binary tree?","How does round robin scheduling work?",1,0,0.0000
+373,"How can I convert a string to an integer in Java?","What is a semaphore in OS?",1,0,0.0000
+374,"What is a router step by step?","What is the function of a router in a computer network step by step?",1,1,0.5000
+375,"How can I check whether a string contains a word in Java?","How do I test if a Java String contains a particular word?",1,1,0.4365
+376,"What is normalization in DBMS efficiently?","What does database normalization mean efficiently?",1,1,0.4500
+377,"How do I make a website responsive?","How can I reverse a list in Python?",1,0,0.0000
+378,"What is the time complexity of binary search?","What is paging in operating systems?",1,0,0.0000
+379,"What is a thread in OS in a program?","What does a thread represent in an operating system step by step?",1,1,0.1458
+380,"What is a router?","What is the function of a router in a computer network?",1,1,0.2500
+381,"How do I find duplicate rows using SQL?","What is a network topology?",1,0,0.0000
+382,"How do I read a file line by line in Java efficiently?","What is the method for reading a file one line at a time in Java using a simple approach?",1,1,0.2654
+383,"What method can I use to change text color using css?","What CSS property is used to change the color of text?",1,1,0.4167
+384,"How can I check whether a string contains a word in Java efficiently?","How do I test if a Java String contains a particular word using a simple approach?",1,1,0.3333
+385,"How do I remove duplicates from a Python list?","What is the difference between DELETE and TRUNCATE?",1,0,0.0000
+386,"How can I read a CSV file in Python?","How can I handle exceptions in Java?",1,0,0.0000
+387,"What is a MAC address?","How can I find the height of a binary tree?",1,0,0.0000
+388,"How do I detect a cycle in a linked list efficiently?","What is a method for finding a loop in a linked list?",1,1,0.3250
+389,"What is packet switching efficiently?","Can you explain packet switching in computer networks?",1,1,0.3667
+390,"How do I read a file line by line in Java?","What is demand paging?",1,0,0.0000
+391,"How can I load an external CSS file efficiently?","What is the correct way to link an external stylesheet to HTML?",1,1,0.1333
+392,"What is the best way to what is a subnet mask?","What is the purpose of a subnet mask in networking using a simple approach?",1,1,0.2917
+393,"How does HTTP work step by step?","Can you explain the working of the HTTP protocol using a simple approach?",1,1,0.1389
+394,"What is the OSI model step by step?","Can you explain the seven-layer OSI model in a program?",1,1,0.2917
+395,"How do I count rows in an SQL table efficiently?","What SQL query can I use to count records in a table efficiently?",1,1,0.4643
+396,"What is method overloading in Java?","How can I remove a table from a database?",1,0,0.0000
+397,"How do I change a font size with CSS efficiently?","What CSS property controls the size of text in a program?",1,1,0.1944
+398,"What is a composite key?","How can I implement binary search?",1,0,0.0000
+399,"What is a simple way to what is deadlock in operating systems?","Can you explain the concept of deadlock in OS?",1,1,0.1625
+400,"How can I validate an HTML form using JavaScript?","What is the difference between TCP and UDP?",1,0,0.0000
+401,"How do I find duplicate rows using SQL?","What is paging in operating systems?",1,0,0.0000
+402,"How does DHCP work?","How do I remove duplicates from a Python list?",1,0,0.0000
+403,"What is the difference between TCP and UDP?","What is the difference between WHERE and HAVING?",1,1,0.4167
+404,"How can I implement a stack using an array?","How do I create a stack using an array data structure?",1,1,0.3667
+405,"What is paging in operating systems?","What are ACID properties?",1,0,0.0000
+406,"Can you explain how to implement a min heap?","What is the approach for implementing a minimum heap step by step?",1,1,0.1389
+407,"How do I convert an ArrayList to an array?","What is the way to convert an ArrayList into an array in Java?",1,1,0.5000
+408,"How do I sort an array in Java?","How does ARP work?",1,0,0.0000
+409,"What is the difference between == and equals in Java?","How does == differ from equals() when comparing objects in Java?",1,1,0.2917
+410,"How does the fork system call work?","How do I convert an ArrayList to an array?",1,0,0.0000
+411,"What is dynamic programming in algorithms efficiently?","Can you explain the concept of dynamic programming in DSA in a program?",1,1,0.2917
+412,"How do I find duplicate rows using SQL?","How do I remove duplicates from a Python list?",1,0,0.0000
+413,"How can I reverse a string in Java step by step?","What is the best way to reverse a String using Java in a program?",1,1,0.4375
+414,"How can I remove a table from a database?","How can I handle exceptions in Java?",1,0,0.0000
+415,"What is dynamic programming in algorithms?","What is latency in networking?",1,0,0.0000
+416,"How do I sort query results in SQL?","What is method overloading in Java?",1,0,0.0000
+417,"What is the difference between TCP and UDP?","How can I check whether a string contains a word in Java?",1,0,0.0000
+418,"How can I implement a queue using two stacks?","What is a thread in OS?",1,0,0.0000
+419,"How can I remove duplicate elements from an ArrayList?","How do I select an element by ID in JavaScript?",1,0,0.0000
+420,"How do I count rows in an SQL table?","How can I change an element's background color with CSS?",1,0,0.0000
+421,"What is the difference between WHERE and HAVING using a simple approach?","How does the SQL WHERE clause differ from HAVING in a program?",1,1,0.2667
+422,"How can I find the shortest path in a graph?","What algorithms can be used to determine the shortest path in a graph?",1,1,0.4643
+423,"What is the difference between TCP and UDP?","What is deadlock in operating systems?",1,0,0.0000
+424,"How do I perform an inorder traversal of a binary tree?","What is the difference between WHERE and HAVING?",1,0,0.0000
+425,"How can I reverse a linked list?","What is the difference between WHERE and HAVING?",1,0,0.0000
+426,"What is the difference between DELETE and TRUNCATE?","How can I change an element's background color with CSS?",1,0,0.0000
+427,"What is a system call?","How do I add JavaScript to an HTML page?",1,0,0.0000
+428,"What is the difference between DELETE and TRUNCATE?","What is context switching?",1,0,0.0000
+429,"What is packet switching?","How do I sort query results in SQL?",1,0,0.0000
+430,"How can I detect duplicate elements in an array efficiently?","What is a method for finding repeated values in an array?",1,1,0.1556
+431,"What is the difference between WHERE and HAVING using a simple approach?","How does the SQL WHERE clause differ from HAVING efficiently?",1,1,0.2667
+432,"What is packet switching?","How do I create a thread in Java?",1,0,0.0000
+433,"What is DNS?","How can I add an event listener in JavaScript?",1,0,0.0000
+434,"How can I reverse a string in Java?","How does ARP work?",1,0,0.0000
+435,"What is a primary key in DBMS?","What is dynamic programming in algorithms?",1,0,0.0000
+436,"How do I remove duplicates from a Python list?","What is a simple way to eliminate duplicate values from a list in Python?",1,1,0.1825
+437,"Can you explain how to find the shortest path in a graph?","What algorithms can be used to determine the shortest path in a graph?",1,1,0.4375
+438,"How can I find the height of a binary tree?","What is the method to calculate the height of a binary tree?",1,1,0.5500
+439,"How do I hide an element using CSS efficiently?","What CSS can I use to make an element invisible?",1,1,0.2429
+440,"How can I add an event listener in JavaScript?","What is the difference between IPv4 and IPv6?",1,0,0.0000
+441,"What is the OSI model?","How do I add JavaScript to an HTML page?",1,0,0.0000
+442,"How do I create a virtual environment in Python?","What is a process in an operating system?",1,0,0.0000
+443,"What is a critical section?","What is dynamic programming in algorithms?",1,0,0.0000
+444,"What is the best way to read a file line by line in java?","What is the method for reading a file one line at a time in Java step by step?",1,1,0.3038
+445,"What is method overloading in Java?","How does ARP work?",1,0,0.0000
+446,"How does ARP work?","How can I remove a table from a database?",1,0,0.0000
+447,"How does round robin scheduling work step by step?","What is the working principle of round robin CPU scheduling in a program?",1,1,0.3643
+448,"What is paging in operating systems?","How do I find the middle node of a linked list?",1,0,0.0000
+449,"What is the best way to what are acid properties?","What do the ACID properties of database transactions mean step by step?",1,1,0.2429
+450,"How can I sort a list in Python?","What is the best way to arrange the elements of a Python list step by step?",1,1,0.1736
+451,"How do I center a div using CSS?","How can I find the height of a binary tree?",1,0,0.0000
+452,"How can I remove duplicate elements from an ArrayList?","What is the difference between WHERE and HAVING?",1,0,0.0000
+453,"What is a subnet mask?","What is the purpose of a subnet mask in networking?",1,1,0.5000
+454,"What method can I use to perform an inorder traversal of a binary tree?","What is the procedure for inorder traversal in a binary tree?",1,1,0.5357
+455,"What is the difference between TCP and UDP?","How do TCP and UDP differ in networking?",1,1,0.4167
+456,"What method can I use to how does dhcp work?","Can you explain how DHCP assigns network configuration?",1,1,0.1625
+457,"How do I find the largest number in a python list?","How can I get the maximum value from a list in Python using a simple approach?",1,1,0.1714
+458,"How can I find the length of an array in Java?","What is dynamic programming in algorithms?",1,0,0.0000
+459,"How can I join two tables in SQL?","How do I read a file line by line in Java?",1,0,0.0000
+460,"What is the best way to what is a transaction in dbms?","Can you explain the concept of a database transaction efficiently?",1,1,0.1625
+461,"How can I reverse a list in Python?","What is the difference between DELETE and TRUNCATE?",1,0,0.0000
+462,"How can I remove duplicate elements from an ArrayList?","What is a system call?",1,0,0.0000
+463,"How can I convert a string to lowercase in Python?","How do I find duplicate rows using SQL?",1,0,0.0000
+464,"What is a MAC address?","What is deadlock in operating systems?",1,0,0.0000
+465,"How do I create a dropdown menu in HTML step by step?","What HTML element can be used to create a dropdown list using a simple approach?",1,1,0.2614
+466,"Can you explain how to remove duplicate elements from an arraylist?","How do I eliminate duplicate values from an ArrayList in Java efficiently?",1,1,0.2778
+467,"What is deadlock in operating systems step by step?","Can you explain the concept of deadlock in OS?",1,1,0.1625
+468,"How does ARP work?","What is a list comprehension in Python?",1,0,0.0000
+469,"How does HTTP work?","How can I reverse a string in Java?",1,0,0.0000
+470,"How can I handle exceptions in Java?","What is the proper way to handle exceptions in Java step by step?",1,1,0.4286
+471,"How do I change a font size with CSS?","How can I count occurrences of an item in a Python list?",1,0,0.0000
+472,"How can I sort a list in Python?","What is a semaphore in OS?",1,0,0.0000
+473,"What is a semaphore in OS?","How can I reverse a list in Python?",1,0,0.0000
+474,"What is deadlock in operating systems?","What is dynamic programming in algorithms?",1,0,0.0000
+475,"How can I reverse a string in Java?","What is latency in networking?",1,0,0.0000
+476,"How can I check whether a string contains a word in Java?","What is a thread in OS?",1,0,0.0000
+477,"How do I create a virtual environment in Python?","What are ACID properties?",1,0,0.0000
+478,"How do I change a font size with CSS using a simple approach?","What CSS property controls the size of text?",1,1,0.1944
+479,"What is a network topology?","How do I detect a cycle in a linked list?",1,0,0.0000
+480,"How can I handle exceptions in Java?","What is paging in operating systems?",1,0,0.0000
+481,"How does DHCP work?","How can I create a button in HTML?",1,0,0.0000
+482,"How can I change an element's background color with CSS?","What is a MAC address?",1,0,0.0000
+483,"How can I find the height of a binary tree?","What is the method to calculate the height of a binary tree?",1,1,0.5500
+484,"What method can I use to how does dhcp work?","Can you explain how DHCP assigns network configuration using a simple approach?",1,1,0.1214
+485,"What is a simple way to implement a min heap?","What is the approach for implementing a minimum heap in a program?",1,1,0.1556
+486,"How do I find duplicate rows using SQL?","What is packet switching?",1,0,0.0000
+487,"How does the fork system call work?","What is the difference between WHERE and HAVING?",1,0,0.0000
+488,"How can I find the length of an array in Java?","How can I read a CSV file in Python?",1,0,0.0000
+489,"What is a subnet mask?","What is a primary key in DBMS?",1,0,0.0000
+490,"How can I find the height of a binary tree?","How do I remove duplicates from a Python list?",1,0,0.0000
+491,"What is a primary key in DBMS?","How can I handle exceptions in Java?",1,0,0.0000
+492,"What is the OSI model?","How do I count rows in an SQL table?",1,0,0.0000
+493,"What is a simple way to create a thread in java?","What are the ways to create a thread using Java step by step?",1,1,0.3810
+494,"What is an IP address?","Can you explain what an IP address is in computer networking?",1,1,0.4000
+495,"How can I find the shortest path in a graph?","How do I check if a key exists in a Python dictionary?",1,0,0.0000
+496,"What is the difference between TCP and UDP?","How do I sort query results in SQL?",1,0,0.0000
+497,"What is the OSI model using a simple approach?","Can you explain the seven-layer OSI model step by step?",1,1,0.2540
+498,"How can I convert a string to an integer in Java?","What is a list comprehension in Python?",1,0,0.0000
+499,"How can I remove a table from a database efficiently?","What SQL command is used to delete a table using a simple approach?",1,1,0.1214
+500,"What is the difference between == and equals in Java?","What is CPU scheduling?",1,0,0.0000
+501,"What is the difference between process and thread in a program?","How does a process differ from a thread in an operating system using a simple approach?",0,1,0.2429
+502,"How do I center a div using CSS?","What is the best way to horizontally and vertically center a div in CSS?",0,1,0.4286
+503,"What is the difference between BFS and DFS?","What is a MAC address?",0,0,0.0000
+504,"How can I what are acid properties?","What do the ACID properties of database transactions mean?",0,1,0.3667
+505,"How can I remove duplicate elements from an ArrayList?","What is a system call?",0,0,0.0000
+506,"How do I iterate through a HashMap in Java in a program?","What is the correct way to loop over a HashMap in Java step by step?",0,1,0.2159
+507,"How can I load an external CSS file?","What is the correct way to link an external stylesheet to HTML?",0,1,0.1389
+508,"What is the difference between TCP and UDP?","What is dynamic programming in algorithms?",0,0,0.0000
+509,"How can I merge two dictionaries in Python?","What is a critical section?",0,0,0.0000
+510,"How can I how does round robin scheduling work?","What is the working principle of round robin CPU scheduling using a simple approach?",0,1,0.3542
+511,"How can I reverse a string in Java?","What is the best way to reverse a String using Java?",0,1,0.6000
+512,"How can I what is packet switching?","Can you explain packet switching in computer networks efficiently?",0,1,0.3333
+513,"How do I find the length of a list in Python?","How can I get the number of items in a Python list?",0,1,0.2429
+514,"What is the difference between BFS and DFS?","What are ACID properties?",0,0,0.0000
+515,"How do I add JavaScript to an HTML page?","What is a semaphore in OS?",0,0,0.0000
+516,"How can I remove duplicate elements from an ArrayList?","What is the difference between IPv4 and IPv6?",0,0,0.0000
+517,"What is packet switching?","How can I find the height of a binary tree?",0,0,0.0000
+518,"How do I perform an inorder traversal of a binary tree?","What is the procedure for inorder traversal in a binary tree?",0,1,0.7333
+519,"How can I implement binary search?","How do I find the length of a list in Python?",0,0,0.0000
+520,"How can I change text color using CSS?","What is the difference between == and equals in Java?",0,0,0.0000
+521,"How can I merge two dictionaries in Python?","What is the DOM in JavaScript?",0,0,0.0000
+522,"What is a list comprehension in Python?","How can I add an event listener in JavaScript?",0,0,0.0000
+523,"What is the best way to what is dns?","What is the purpose of the Domain Name System in a program?",0,0,0.0000
+524,"What is the OSI model?","How can I find the shortest path in a graph?",0,0,0.0000
+525,"What is a subnet mask in a program?","What is the purpose of a subnet mask in networking using a simple approach?",0,1,0.3095
+526,"How can I check if a string contains a substring in Python?","How do I test whether a Python string contains another string?",0,1,0.3333
+527,"How do I sort query results in SQL?","How can I read a CSV file in Python?",0,0,0.0000
+528,"How do I convert an ArrayList to an array?","How can I validate an HTML form using JavaScript?",0,0,0.0000
+529,"How can I implement binary search?","How can I convert a string to an integer in Java?",0,0,0.0000
+530,"How do I split a string in Java using a simple approach?","What method can I use to split a String into parts in Java in a program?",0,1,0.3375
+531,"How do I what is a composite key?","Can you explain the meaning of a composite key in DBMS using a simple approach?",0,1,0.2857
+532,"What is a network topology?","What does network topology mean step by step?",0,1,0.4000
+533,"What is a thread in OS?","How do I check if a key exists in a Python dictionary?",0,0,0.0000
+534,"What is the difference between IPv4 and IPv6?","How can I implement a queue using two stacks?",0,0,0.0000
+535,"How do I sort query results in SQL?","What SQL clause is used to sort query output?",0,1,0.3810
+536,"What is packet switching using a simple approach?","Can you explain packet switching in computer networks using a simple approach?",0,1,0.5714
+537,"What is the difference between == and equals in Java?","What is a composite key?",0,0,0.0000
+538,"How do I hide an element using CSS?","What is the difference between == and equals in Java?",0,0,0.0000
+539,"How do I iterate through a HashMap in Java?","How do I change a font size with CSS?",0,0,0.0000
+540,"What is a firewall in a program?","What is the role of a firewall in a network efficiently?",0,1,0.2250
+541,"How can I add an event listener in JavaScript?","How can I implement binary search?",0,0,0.0000
+542,"How can I find the shortest path in a graph?","How can I update records in SQL?",0,0,0.0000
+543,"How can I update records in SQL?","How can I add an event listener in JavaScript?",0,0,0.0000
+544,"How do I find the length of a list in Python?","How does ARP work?",0,0,0.0000
+545,"What is context switching?","What is a subnet mask?",0,0,0.0000
+546,"What method can I use to remove duplicates from a python list?","What is a simple way to eliminate duplicate values from a list in Python using a simple approach?",0,1,0.1458
+547,"How do I sort query results in SQL?","How do I find the length of a list in Python?",0,0,0.0000
+548,"How do I remove an item from a Python list using a simple approach?","What are the ways to delete an element from a Python list using a simple approach?",0,1,0.4500
+549,"How do I add JavaScript to an HTML page step by step?","What is the correct way to include JavaScript in an HTML document efficiently?",0,1,0.2338
+550,"How can I count occurrences of an item in a Python list?","What is the way to count how many times a value appears in a Python list?",0,1,0.3375
+551,"How can I what is a subnet mask?","What is the purpose of a subnet mask in networking?",0,1,0.5000
+552,"What is a simple way to what is a router?","What is the function of a router in a computer network in a program?",0,1,0.1714
+553,"What is deadlock in operating systems efficiently?","Can you explain the concept of deadlock in OS using a simple approach?",0,1,0.1389
+554,"What is latency in networking?","How do I create a thread in Java?",0,0,0.0000
+555,"What is a foreign key?","How can I check whether a string contains a word in Java?",0,0,0.0000
+556,"How can I implement a min heap step by step?","What is the approach for implementing a minimum heap efficiently?",0,1,0.1556
+557,"Can you explain how to what is the time complexity of binary search?","How much time does binary search take in terms of complexity using a simple approach?",0,1,0.3667
+558,"How can I convert a string to an integer in Java?","How can I convert a string to lowercase in Python?",0,1,0.4167
+559,"How can I how does arp work?","Can you explain the working of the Address Resolution Protocol?",0,0,0.0000
+560,"Can you explain how to what is a firewall?","What is the role of a firewall in a network step by step?",0,1,0.1833
+561,"How can I detect duplicate elements in an array?","What is the difference between HTML and CSS?",0,0,0.0000
+562,"How can I sort a list in Python?","What is the best way to arrange the elements of a Python list?",0,1,0.2262
+563,"How does the fork system call work?","How do I create a virtual environment in Python?",0,0,0.0000
+564,"How can I implement a min heap?","How do I remove duplicates from a Python list?",0,0,0.0000
+565,"How does HTTP work?","What is the time complexity of binary search?",0,0,0.0000
+566,"What is a thread in OS using a simple approach?","What does a thread represent in an operating system in a program?",0,1,0.1625
+567,"How can I implement a min heap?","What is context switching?",0,0,0.0000
+568,"What is the difference between process and thread?","How do I find the middle node of a linked list?",0,0,0.0000
+569,"How do I remove duplicates from a Python list?","What is demand paging?",0,0,0.0000
+570,"What is a list comprehension in Python?","What is a MAC address?",0,0,0.0000
+571,"What is latency in networking?","Can you explain latency in a computer network?",0,1,0.2250
+572,"What is deadlock in operating systems?","Can you explain the concept of deadlock in OS?",0,1,0.2083
+573,"How can I sort a list in Python in a program?","What is the best way to arrange the elements of a Python list step by step?",0,1,0.1625
+574,"What is the time complexity of binary search?","What is a foreign key?",0,0,0.0000
+575,"What is the difference between WHERE and HAVING?","How can I check if a string contains a substring in Python?",0,0,0.0000
+576,"How do I select an element by ID in JavaScript?","What is virtual memory?",0,0,0.0000
+577,"What is a router?","How can I read a CSV file in Python?",0,0,0.0000
+578,"How can I reverse a string in Java?","What is virtual memory?",0,0,0.0000
+579,"How can I implement a queue using two stacks?","What is the approach for building a queue from two stacks?",0,1,0.5500
+580,"What method can I use to what is the difference between delete and truncate?","How are SQL DELETE and TRUNCATE different in a program?",0,1,0.2667
+581,"What is dynamic programming in algorithms step by step?","Can you explain the concept of dynamic programming in DSA efficiently?",0,1,0.2778
+582,"What is the difference between WHERE and HAVING?","How can I implement a stack using an array?",0,0,0.0000
+583,"What is the best way to what is virtual memory?","Can you explain the concept of virtual memory in an operating system step by step?",0,1,0.2250
+584,"What method can I use to find the middle node of a linked list?","What is a way to locate the middle element in a linked list using a simple approach?",0,1,0.3125
+585,"How can I what is a list comprehension in python?","Can you explain list comprehensions in Python step by step?",0,1,0.3095
+586,"What method can I use to what is dynamic programming in algorithms?","Can you explain the concept of dynamic programming in DSA efficiently?",0,1,0.2778
+587,"How can I reverse a string in Java?","How do I sort query results in SQL?",0,0,0.0000
+588,"What is a composite key step by step?","Can you explain the meaning of a composite key in DBMS using a simple approach?",0,1,0.2540
+589,"Can you explain how to count rows in an sql table?","What SQL query can I use to count records in a table using a simple approach?",0,1,0.2750
+590,"How do I create a dropdown menu in HTML?","What is the difference between BFS and DFS?",0,0,0.0000
+591,"What is CPU scheduling?","What is method overloading in Java?",0,0,0.0000
+592,"What method can I use to reverse a linked list?","What is the procedure to reverse a linked list?",0,1,0.5500
+593,"What method can I use to remove an item from a python list?","What are the ways to delete an element from a Python list using a simple approach?",0,1,0.2083
+594,"What is DNS?","How do I find the largest number in a Python list?",0,0,0.0000
+595,"What is the difference between BFS and DFS efficiently?","How are breadth-first search and depth-first search different step by step?",0,0,0.0000
+596,"What is the difference between WHERE and HAVING?","How does the SQL WHERE clause differ from HAVING?",0,1,0.3429
+597,"What is the best way to what is a foreign key?","Can you explain what a foreign key does in a database step by step?",0,1,0.2917
+598,"How can I detect duplicate elements in an array?","What is a method for finding repeated values in an array?",0,1,0.1625
+599,"How do I find the largest number in a Python list step by step?","How can I get the maximum value from a list in Python in a program?",0,1,0.1623
+600,"How do I convert an ArrayList to an array efficiently?","What is the way to convert an ArrayList into an array in Java in a program?",0,1,0.4018
+601,"How do I make a website responsive?","What techniques can I use to make a web page responsive?",0,1,0.3095
+602,"How can I find the length of an array in Java step by step?","How do I get the number of elements in a Java array using a simple approach?",0,1,0.1623
+603,"What is a race condition in a program?","Can you explain race conditions in operating systems step by step?",0,1,0.1270
+604,"How can I implement a queue using two stacks?","How does ARP work?",0,0,0.0000
+605,"What is the difference between process and thread?","How does a process differ from a thread in an operating system?",0,1,0.3429
+606,"What is a list comprehension in Python?","Can you explain list comprehensions in Python?",0,1,0.4500
+607,"How do I find the largest number in a Python list?","What is a system call?",0,0,0.0000
+608,"How do I read a file line by line in Java?","What is dynamic programming in algorithms?",0,0,0.0000
+609,"How do I sort query results in SQL?","How can I convert a string to lowercase in Python?",0,0,0.0000
+610,"How does HTTP work?","How do I find the middle node of a linked list?",0,0,0.0000
+611,"How can I find the maximum value in an integer array?","What is the DOM in JavaScript?",0,0,0.0000
+612,"How do I remove an item from a Python list?","What is virtual memory?",0,0,0.0000
+613,"What is the OSI model?","How does the fork system call work?",0,0,0.0000
+614,"What is virtual memory using a simple approach?","Can you explain the concept of virtual memory in an operating system step by step?",0,1,0.2250
+615,"What is a thread in OS?","What is latency in networking?",0,0,0.0000
+616,"How can I remove a table from a database step by step?","What SQL command is used to delete a table step by step?",0,1,0.3810
+617,"What is paging in operating systems?","What is latency in networking?",0,0,0.0000
+618,"What is dynamic programming in algorithms?","How does DHCP work?",0,0,0.0000
+619,"Can you explain how to read a file line by line in java?","What is the method for reading a file one line at a time in Java efficiently?",0,1,0.2917
+620,"How does the fork system call work?","How do I perform an inorder traversal of a binary tree?",0,0,0.0000
+621,"How do I change a font size with CSS?","What CSS property controls the size of text?",0,1,0.2429
+622,"What method can I use to what is virtual memory?","Can you explain the concept of virtual memory in an operating system in a program?",0,1,0.2540
+623,"How can I change an element's background color with CSS?","What CSS property changes the background color of an element?",0,1,0.4167
+624,"What is a simple way to what is method overloading in java?","Can you explain method overloading with Java methods using a simple approach?",0,1,0.4643
+625,"What is the DOM in JavaScript?","How does the fork system call work?",0,0,0.0000
+626,"How can I implement a stack using an array?","How do I read a file line by line in Java?",0,0,0.0000
+627,"What is latency in networking?","How do I iterate through a HashMap in Java?",0,0,0.0000
+628,"Can you explain how to what is the difference between ipv4 and ipv6?","How are IPv4 and IPv6 different efficiently?",0,1,0.3250
+629,"What is the time complexity of binary search?","How much time does binary search take in terms of complexity?",0,1,0.5000
+630,"What is a simple way to what is the dom in javascript?","Can you explain the Document Object Model in JavaScript using a simple approach?",0,1,0.1825
+631,"What is a list comprehension in Python efficiently?","Can you explain list comprehensions in Python efficiently?",0,1,0.5500
+632,"What is a race condition efficiently?","Can you explain race conditions in operating systems in a program?",0,1,0.1458
+633,"What is a foreign key?","Can you explain what a foreign key does in a database?",0,1,0.5000
+634,"How can I find the maximum value in an integer array?","How do I change a font size with CSS?",0,0,0.0000
+635,"How can I find the maximum value in an integer array step by step?","How do I get the largest element from an int array in Java?",0,1,0.1131
+636,"What is the best way to remove duplicate elements from an arraylist?","How do I eliminate duplicate values from an ArrayList in Java step by step?",0,1,0.2338
+637,"How do I check if a key exists in a Python dictionary?","What is a foreign key?",0,1,0.1548
+638,"How can I validate an HTML form using JavaScript?","What is a way to validate form inputs with JavaScript?",0,1,0.5500
+639,"Can you explain how to what is deadlock in operating systems?","Can you explain the concept of deadlock in OS using a simple approach?",0,1,0.2917
+640,"What is an IP address?","What is normalization in DBMS?",0,0,0.0000
+641,"What is demand paging?","What is packet switching?",0,0,0.0000
+642,"How can I implement a min heap?","What is the approach for implementing a minimum heap?",0,1,0.2083
+643,"How can I create a button in HTML?","How do I count rows in an SQL table?",0,0,0.0000
+644,"How do I create a dropdown menu in HTML?","How can I reverse a string in Java?",0,0,0.0000
+645,"What is a transaction in DBMS?","What is a list comprehension in Python?",0,0,0.0000
+646,"How do I add JavaScript to an HTML page?","What is the correct way to include JavaScript in an HTML document?",0,1,0.2917
+647,"How does ARP work?","What is a transaction in DBMS?",0,0,0.0000
+648,"How do I detect a cycle in a linked list in a program?","What is a method for finding a loop in a linked list efficiently?",0,1,0.2778
+649,"How does round robin scheduling work step by step?","What is the working principle of round robin CPU scheduling in a program?",0,1,0.3643
+650,"How do I sort a list in python?","What is the best way to arrange the elements of a Python list step by step?",0,1,0.1736
+651,"How do I what is demand paging?","How does demand paging work in virtual memory using a simple approach?",0,1,0.2857
+652,"What is virtual memory?","Can you explain the concept of virtual memory in an operating system efficiently?",0,1,0.2857
+653,"What method can I use to convert a string to an integer in java?","How do I convert a String value into an int in Java efficiently?",0,1,0.3643
+654,"What is a router?","How can I handle exceptions in Java?",0,0,0.0000
+655,"What method can I use to center a div using css?","What is the best way to horizontally and vertically center a div in CSS efficiently?",0,1,0.3375
+656,"How can I implement binary search in a program?","What is the method for implementing binary search using a simple approach?",0,1,0.2917
+657,"What method can I use to what is a list comprehension in python?","Can you explain list comprehensions in Python in a program?",0,1,0.3250
+658,"Can you explain how to find duplicate rows using sql?","What SQL query can be used to identify duplicate records in a program?",0,1,0.1714
+659,"What is the best way to what is the time complexity of binary search?","How much time does binary search take in terms of complexity efficiently?",0,1,0.3875
+660,"How can I sort a list in Python?","How do I add JavaScript to an HTML page?",0,0,0.0000
+661,"How can I check if a key exists in a python dictionary?","How can I test whether a dictionary contains a specific key in Python using a simple approach?",0,1,0.2361
+662,"What are ACID properties?","How do I add JavaScript to an HTML page?",0,0,0.0000
+663,"What is a subnet mask in a program?","What is the purpose of a subnet mask in networking in a program?",0,1,0.6000
+664,"How do I count rows in an SQL table?","How can I implement binary search?",0,0,0.0000
+665,"How can I find the height of a binary tree efficiently?","What is the method to calculate the height of a binary tree efficiently?",0,1,0.6190
+666,"What is the difference between BFS and DFS efficiently?","How are breadth-first search and depth-first search different using a simple approach?",0,0,0.0000
+667,"What is the difference between BFS and DFS?","What is a subnet mask?",0,0,0.0000
+668,"What method can I use to what is a foreign key?","Can you explain what a foreign key does in a database in a program?",0,1,0.3429
+669,"How does round robin scheduling work?","How do I check if a key exists in a Python dictionary?",0,0,0.0000
+670,"What is the best way to update records in sql?","What is the SQL syntax for modifying existing records using a simple approach?",0,1,0.1714
+671,"Can you explain how to what is a mac address?","Can you explain what a MAC address represents step by step?",0,1,0.5000
+672,"What is a composite key?","How can I find the shortest path in a graph?",0,0,0.0000
+673,"What method can I use to what is a foreign key?","Can you explain what a foreign key does in a database step by step?",0,1,0.2917
+674,"How can I implement a stack using an array?","What is a network topology?",0,0,0.0000
+675,"How do I what is dynamic programming in algorithms?","Can you explain the concept of dynamic programming in DSA using a simple approach?",0,1,0.2679
+676,"What is context switching?","What is the difference between WHERE and HAVING?",0,0,0.0000
+677,"How can I check whether a string contains a word in Java step by step?","How do I test if a Java String contains a particular word in a program?",0,1,0.3542
+678,"How do I what is latency in networking?","Can you explain latency in a computer network efficiently?",0,1,0.1833
+679,"How do I detect duplicate elements in an array?","What is a method for finding repeated values in an array in a program?",0,1,0.1389
+680,"How does round robin scheduling work?","What is the working principle of round robin CPU scheduling?",0,1,0.4643
+681,"What is a MAC address?","What is a race condition?",0,0,0.0000
+682,"What is a primary key in DBMS?","What is the difference between BFS and DFS?",0,0,0.0000
+683,"What is the difference between TCP and UDP?","How do TCP and UDP differ in networking?",0,1,0.4167
+684,"What is the difference between TCP and UDP efficiently?","How do TCP and UDP differ in networking efficiently?",0,1,0.5143
+685,"How can I check whether a string contains a word in Java?","What is a router?",0,0,0.0000
+686,"How can I detect duplicate elements in an array?","How can I find the length of an array in Java?",0,1,0.1964
+687,"How can I remove a table from a database?","How do I find the middle node of a linked list?",0,0,0.0000
+688,"How do I select an element by ID in JavaScript?","What is the JavaScript method for selecting an element using its ID?",0,1,0.3542
+689,"How does round robin scheduling work?","What is a composite key?",0,0,0.0000
+690,"How do I hide an element using CSS?","What is the difference between IPv4 and IPv6?",0,0,0.0000
+691,"Can you explain how to what is the osi model?","Can you explain the seven-layer OSI model in a program?",0,1,0.5000
+692,"What is the difference between BFS and DFS?","How can I change an element's background color with CSS?",0,0,0.0000
+693,"How can I update records in SQL using a simple approach?","What is the SQL syntax for modifying existing records step by step?",0,1,0.1714
+694,"How do I iterate through a HashMap in Java?","What is the time complexity of merge sort?",0,0,0.0000
+695,"Can you explain how to what is demand paging?","How does demand paging work in virtual memory in a program?",0,1,0.3095
+696,"What is dynamic programming in algorithms?","Can you explain the concept of dynamic programming in DSA?",0,1,0.3667
+697,"What is the difference between HTML and CSS?","How are HTML and CSS different in web development?",0,1,0.2917
+698,"How do I read a csv file in python?","What is the method to load a CSV file using Python?",0,1,0.5500
+699,"What is a MAC address efficiently?","Can you explain what a MAC address represents step by step?",0,1,0.3095
+700,"How do I sort an array in Java?","How can I sort a list in Python?",0,1,0.2667
+701,"What is a critical section?","What is the time complexity of merge sort?",0,0,0.0000
+702,"What is an IP address?","How can I sort a list in Python?",0,0,0.0000
+703,"How can I convert a string to an integer in Java in a program?","How do I convert a String value into an int in Java step by step?",0,1,0.3375
+704,"How does HTTP work?","What are ACID properties?",0,0,0.0000
+705,"How does DHCP work?","How do I find duplicate rows using SQL?",0,0,0.0000
+706,"What is a simple way to read a csv file in python?","What is the method to load a CSV file using Python using a simple approach?",0,1,0.4365
+707,"What is CPU scheduling step by step?","Can you explain CPU scheduling in an operating system?",0,1,0.3429
+708,"Can you explain how to add javascript to an html page?","What is the correct way to include JavaScript in an HTML document?",0,1,0.2778
+709,"How do I center a div using CSS?","What is the time complexity of merge sort?",0,0,0.0000
+710,"How do I sort an array in Java?","What is the easiest way to sort an array using Java?",0,1,0.6000
+711,"How do I find the middle node of a linked list?","What is the difference between WHERE and HAVING?",0,0,0.0000
+712,"How do I convert an ArrayList to an array?","What is the way to convert an ArrayList into an array in Java?",0,1,0.5000
+713,"How do I select an element by ID in JavaScript?","What is a thread in OS?",0,0,0.0000
+714,"How do I make a website responsive?","What is a MAC address?",0,0,0.0000
+715,"What is demand paging efficiently?","How does demand paging work in virtual memory in a program?",0,1,0.3095
+716,"What is a foreign key?","How can I handle exceptions in Java?",0,0,0.0000
+717,"What is the difference between DELETE and TRUNCATE step by step?","How are SQL DELETE and TRUNCATE different?",0,1,0.2778
+718,"How can I merge two dictionaries in Python?","What are the ways to combine two Python dictionaries?",0,1,0.3810
+719,"How can I reverse a linked list efficiently?","What is the procedure to reverse a linked list using a simple approach?",0,1,0.4643
+720,"How can I find the length of an array in Java?","How do I get the number of elements in a Java array?",0,1,0.2429
+721,"How can I count rows in an sql table?","What SQL query can I use to count records in a table?",0,1,0.3810
+722,"What is a simple way to merge two dictionaries in python?","What are the ways to combine two Python dictionaries?",0,1,0.3333
+723,"What is the time complexity of binary search?","What is the DOM in JavaScript?",0,0,0.0000
+724,"What is a router using a simple approach?","What is the function of a router in a computer network efficiently?",0,1,0.1714
+725,"How do I find duplicate rows using SQL?","How do I create a dropdown menu in HTML?",0,0,0.0000
+726,"How can I implement a queue using two stacks?","How do I create a dropdown menu in HTML?",0,0,0.0000
+727,"How can I implement a stack using an array?","How do I check if a key exists in a Python dictionary?",0,0,0.0000
+728,"What method can I use to what is the time complexity of merge sort?","How much time complexity does merge sort have step by step?",0,1,0.4500
+729,"What is the best way to center a div using css?","What is the best way to horizontally and vertically center a div in CSS?",0,1,0.7143
+730,"What is a system call?","How does DHCP work?",0,0,0.0000
+731,"What is normalization in DBMS efficiently?","What does database normalization mean?",0,1,0.2667
+732,"How can I reverse a string in Java?","How do I find the largest number in a Python list?",0,0,0.0000
+733,"How can I reverse a string in Java efficiently?","What is the best way to reverse a String using Java using a simple approach?",0,1,0.4018
+734,"How can I implement binary search?","What is the method for implementing binary search using a simple approach?",0,1,0.3095
+735,"What is the best way to implement binary search?","What is the method for implementing binary search step by step?",0,1,0.2778
+736,"What is DNS?","How do I center a div using CSS?",0,0,0.0000
+737,"How can I convert a string to an integer in java?","How do I convert a String value into an int in Java using a simple approach?",0,1,0.3542
+738,"How can I reverse a string in Java?","How can I add an event listener in JavaScript?",0,0,0.0000
+739,"What is the time complexity of binary search?","How do I find duplicate rows using SQL?",0,0,0.0000
+740,"How can I what is the dom in javascript?","Can you explain the Document Object Model in JavaScript step by step?",0,1,0.1339
+741,"What is normalization in DBMS?","What does database normalization mean step by step?",0,1,0.1833
+742,"How can I remove a table from a database using a simple approach?","What SQL command is used to delete a table step by step?",0,1,0.1169
+743,"Can you explain how to make a website responsive?","What techniques can I use to make a web page responsive using a simple approach?",0,1,0.2250
+744,"How do I sort an array in Java?","How do I center a div using CSS?",0,0,0.0000
+745,"How does round robin scheduling work step by step?","What is the working principle of round robin CPU scheduling in a program?",0,1,0.3643
+746,"How can I find the height of a binary tree?","What is context switching?",0,0,0.0000
+747,"What is the OSI model?","What is a transaction in DBMS?",0,0,0.0000
+748,"How do I find the middle node of a linked list efficiently?","What is a way to locate the middle element in a linked list using a simple approach?",0,1,0.3239
+749,"How do I split a string in Java?","How do I detect a cycle in a linked list?",0,0,0.0000
+750,"What is a transaction in DBMS?","Can you explain the concept of a database transaction?",0,1,0.2250
+751,"What is a list comprehension in Python?","How can I implement a queue using two stacks?",0,0,0.0000
+752,"What is dynamic programming in algorithms?","What is the difference between process and thread?",0,0,0.0000
+753,"What is the time complexity of binary search?","How can I find the length of an array in Java?",0,0,0.0000
+754,"How can I check whether a string contains a word in Java using a simple approach?","How do I test if a Java String contains a particular word?",0,1,0.3693
+755,"How can I convert a string to lowercase in Python?","What is paging in operating systems?",0,0,0.0000
+756,"What is a MAC address?","Can you explain what a MAC address represents?",0,1,0.5000
+757,"How do I check if a key exists in a python dictionary?","How can I test whether a dictionary contains a specific key in Python using a simple approach?",0,1,0.2361
+758,"What method can I use to perform an inorder traversal of a binary tree?","What is the procedure for inorder traversal in a binary tree step by step?",0,1,0.4857
+759,"How do I read a file line by line in Java?","What is the time complexity of binary search?",0,0,0.0000
+760,"What is a process in an operating system efficiently?","Can you explain what a process means in an operating system in a program?",0,1,0.4643
+761,"What is a firewall?","What is a semaphore in OS?",0,0,0.0000
+762,"What method can I use to what is the difference between delete and truncate?","How are SQL DELETE and TRUNCATE different?",0,1,0.2778
+763,"How can I update records in SQL step by step?","What is the SQL syntax for modifying existing records?",0,1,0.2250
+764,"What is the best way to convert a string to lowercase in python?","How do I change a Python string to lowercase using a simple approach?",0,1,0.3333
+765,"What is demand paging?","How can I load an external CSS file?",0,0,0.0000
+766,"What is demand paging?","How can I read a CSV file in Python?",0,0,0.0000
+767,"What is the time complexity of merge sort?","What is demand paging?",0,0,0.0000
+768,"How do I read a file line by line in Java?","How do I find the middle node of a linked list?",0,0,0.0000
+769,"What is the difference between BFS and DFS?","How are breadth-first search and depth-first search different?",0,0,0.0000
+770,"How can I join two tables in sql?","What is the correct way to combine two tables using an SQL join?",0,1,0.5000
+771,"How do I sort an array in java?","What is the easiest way to sort an array using Java step by step?",0,1,0.4286
+772,"Can you explain how to create a thread in java?","What are the ways to create a thread using Java?",0,1,0.5500
+773,"How can I reverse a string in Java step by step?","What is the best way to reverse a String using Java?",0,1,0.5143
+774,"What is the best way to find the length of an array in java?","How do I get the number of elements in a Java array step by step?",0,1,0.1623
+775,"How do I find duplicate rows using SQL?","What SQL query can be used to identify duplicate records?",0,1,0.2083
+776,"How can I find the length of an array in Java?","How can I find the height of a binary tree?",0,1,0.1964
+777,"What is a router?","What is method overloading in Java?",0,0,0.0000
+778,"What is a primary key in DBMS?","Can you explain the purpose of a primary key in a database?",0,1,0.3667
+779,"How can I remove duplicate elements from an ArrayList?","How do I eliminate duplicate values from an ArrayList in Java?",0,1,0.3429
+780,"How can I check if a string contains a substring in Python?","What is the difference between BFS and DFS?",0,0,0.0000
+781,"How do I hide an element using CSS?","What is the difference between process and thread?",0,0,0.0000
+782,"What method can I use to what is a foreign key?","Can you explain what a foreign key does in a database?",0,1,0.4167
+783,"What is a foreign key?","What is the time complexity of binary search?",0,0,0.0000
+784,"What is method overloading in Java?","How can I implement binary search?",0,0,0.0000
+785,"How can I sort a list in Python?","How can I find the length of an array in Java?",0,0,0.0000
+786,"How can I check if a string contains a substring in Python?","What is an index in a database?",0,0,0.0000
+787,"What is the difference between TCP and UDP efficiently?","How do TCP and UDP differ in networking in a program?",0,1,0.3250
+788,"What method can I use to what is cpu scheduling?","Can you explain CPU scheduling in an operating system step by step?",0,1,0.2540
+789,"How can I remove duplicate elements from an ArrayList step by step?","How do I eliminate duplicate values from an ArrayList in Java efficiently?",0,1,0.2667
+790,"Can you explain how to what is the difference between tcp and udp?","How do TCP and UDP differ in networking step by step?",0,1,0.2778
+791,"What is a system call?","How can I handle exceptions in Java?",0,0,0.0000
+792,"How does DHCP work?","How do I split a string in Java?",0,0,0.0000
+793,"What is a router?","How can I convert a string to lowercase in Python?",0,0,0.0000
+794,"How do I sort query results in SQL?","How do I convert an ArrayList to an array?",0,0,0.0000
+795,"How can I what is the dom in javascript?","Can you explain the Document Object Model in JavaScript in a program?",0,1,0.1548
+796,"How can I join two tables in SQL?","How can I implement a min heap?",0,0,0.0000
+797,"How do I select an element by ID in JavaScript in a program?","What is the JavaScript method for selecting an element using its ID in a program?",0,1,0.4365
+798,"What is CPU scheduling?","How can I check if a string contains a substring in Python?",0,0,0.0000
+799,"How does HTTP work?","Can you explain the working of the HTTP protocol?",0,1,0.2250
+800,"What is a foreign key?","What is a router?",0,0,0.0000
+801,"What is a thread in OS?","What is the OSI model?",0,0,0.0000
+802,"How do I hide an element using CSS?","What is a race condition?",0,0,0.0000
+803,"What is a subnet mask in a program?","What is the purpose of a subnet mask in networking step by step?",0,1,0.3095
+804,"What is a semaphore in OS?","What is the purpose of a semaphore in operating systems?",0,1,0.2250
+805,"How do I hide an element using CSS?","How can I remove duplicate elements from an ArrayList?",0,0,0.0000
+806,"How can I create a button in html?","What HTML code is used to create a button in a program?",0,1,0.4167
+807,"What is a critical section?","How can I change text color using CSS?",0,0,0.0000
+808,"How do I find duplicate rows using SQL step by step?","What SQL query can be used to identify duplicate records using a simple approach?",0,1,0.1458
+809,"How can I implement binary search?","What is the method for implementing binary search?",0,1,0.4500
+810,"What is DNS?","How can I reverse a linked list?",0,0,0.0000
+811,"What is a race condition in a program?","Can you explain race conditions in operating systems in a program?",0,1,0.3095
+812,"What is a subnet mask?","How can I create a button in HTML?",0,0,0.0000
+813,"How do I remove duplicates from a python list?","What is a simple way to eliminate duplicate values from a list in Python?",0,1,0.1825
+814,"How can I handle exceptions in Java?","How do I handle exceptions in Python?",0,1,0.5833
+815,"What is paging in operating systems?","How do I check if a key exists in a Python dictionary?",0,0,0.0000
+816,"How can I what is normalization in dbms?","What does database normalization mean in a program?",0,1,0.2250
+817,"How can I join two tables in SQL?","What is the correct way to combine two tables using an SQL join step by step?",0,1,0.3889
+818,"Can you explain how to find the length of an array in java?","How do I get the number of elements in a Java array using a simple approach?",0,1,0.1714
+819,"What is a subnet mask step by step?","What is the purpose of a subnet mask in networking efficiently?",0,1,0.3429
+820,"How do I make a website responsive?","How can I check if a string contains a substring in Python?",0,0,0.0000
+821,"What is a router?","How can I implement a stack using an array?",0,0,0.0000
+822,"What is the DOM in JavaScript?","What is DNS?",0,0,0.0000
+823,"What is a foreign key?","How can I find the height of a binary tree?",0,0,0.0000
+824,"What is CPU scheduling in a program?","Can you explain CPU scheduling in an operating system using a simple approach?",0,1,0.2679
+825,"How do I split a string in Java?","How can I implement binary search?",0,0,0.0000
+826,"How can I what is a thread in os?","What does a thread represent in an operating system using a simple approach?",0,1,0.1548
+827,"What is method overloading in Java?","Can you explain method overloading with Java methods?",0,1,0.6000
+828,"What is normalization in DBMS?","What is paging in operating systems?",0,0,0.0000
+829,"How can I reverse a list in Python using a simple approach?","What is the easiest way to reverse a list using Python?",0,1,0.5143
+830,"How can I remove a table from a database?","What is the difference between BFS and DFS?",0,0,0.0000
+831,"How do I find the middle node of a linked list?","How do I create a dropdown menu in HTML?",0,0,0.0000
+832,"How can I what is the osi model?","Can you explain the seven-layer OSI model in a program?",0,1,0.3333
+833,"What is the best way to what is dynamic programming in algorithms?","Can you explain the concept of dynamic programming in DSA efficiently?",0,1,0.2778
+834,"How can I find the length of an array in Java?","What is a subnet mask?",0,0,0.0000
+835,"How do I change a font size with CSS?","How do I create a virtual environment in Python?",0,0,0.0000
+836,"What is deadlock in operating systems?","What is a subnet mask?",0,0,0.0000
+837,"What is the difference between IPv4 and IPv6?","How can I join two tables in SQL?",0,0,0.0000
+838,"How does DHCP work using a simple approach?","Can you explain how DHCP assigns network configuration in a program?",0,1,0.1389
+839,"What is an index in a database?","Why are indexes used in databases?",0,0,0.0000
+840,"What is a MAC address?","What is paging in operating systems?",0,0,0.0000
+841,"How can I detect duplicate elements in an array?","How can I add an event listener in JavaScript?",0,0,0.0000
+842,"Can you explain how to check whether a string contains a word in java?","How do I test if a Java String contains a particular word efficiently?",0,1,0.3693
+843,"How can I join two tables in SQL efficiently?","What is the correct way to combine two tables using an SQL join in a program?",0,1,0.4097
+844,"How do I hide an element using CSS using a simple approach?","What CSS can I use to make an element invisible using a simple approach?",0,1,0.4643
+845,"What is a firewall?","What is dynamic programming in algorithms?",0,0,0.0000
+846,"How does round robin scheduling work efficiently?","What is the working principle of round robin CPU scheduling efficiently?",0,1,0.5357
+847,"How can I remove a table from a database?","What SQL command is used to delete a table?",0,1,0.1714
+848,"What method can I use to implement a queue using two stacks?","What is the approach for building a queue from two stacks efficiently?",0,1,0.4167
+849,"How can I validate an HTML form using JavaScript?","How can I read a CSV file in Python?",0,0,0.0000
+850,"What is a process in an operating system?","Can you explain what a process means in an operating system efficiently?",0,1,0.5000
+851,"How do I create a thread in Java?","What is the difference between IPv4 and IPv6?",0,0,0.0000
+852,"How can I create a button in HTML?","What is a transaction in DBMS?",0,0,0.0000
+853,"What is paging in operating systems?","Can you explain how paging works in OS memory management?",0,1,0.1458
+854,"What is a system call?","How do I perform an inorder traversal of a binary tree?",0,0,0.0000
+855,"What is a firewall?","What is the time complexity of binary search?",0,0,0.0000
+856,"How can I change text color using CSS?","What is the time complexity of merge sort?",0,0,0.0000
+857,"How can I sort a list in Python?","How can I join two tables in SQL?",0,0,0.0000
+858,"How does DHCP work?","What is the difference between HTML and CSS?",0,0,0.0000
+859,"What is the OSI model?","How do I count rows in an SQL table?",0,0,0.0000
+860,"How can I merge two dictionaries in Python?","How can I implement a queue using two stacks?",0,1,0.1964
+861,"How can I what is normalization in dbms?","What does database normalization mean using a simple approach?",0,1,0.1833
+862,"What is a system call in a program?","Can you explain what a system call is in an operating system step by step?",0,1,0.3095
+863,"How can I change text color using CSS?","What is a network topology?",0,0,0.0000
+864,"How can I what is a router?","What is the function of a router in a computer network in a program?",0,1,0.2000
+865,"What is a race condition?","How can I remove a table from a database?",0,0,0.0000
+866,"What is a simple way to what is the time complexity of merge sort?","How much time complexity does merge sort have efficiently?",0,1,0.5079
+867,"What is the difference between process and thread?","How do I add JavaScript to an HTML page?",0,0,0.0000
+868,"What is the OSI model?","Can you explain the seven-layer OSI model?",0,1,0.4000
+869,"What is DNS?","What is the purpose of the Domain Name System using a simple approach?",0,0,0.0000
+870,"What is the difference between IPv4 and IPv6?","How are IPv4 and IPv6 different?",0,1,0.4167
+871,"How do I select an element by ID in JavaScript?","What is the JavaScript method for selecting an element using its ID step by step?",0,1,0.3472
+872,"What is the best way to check if a key exists in a python dictionary?","How can I test whether a dictionary contains a specific key in Python step by step?",0,1,0.2183
+873,"How do I find the middle node of a linked list?","How can I handle exceptions in Java?",0,0,0.0000
+874,"What is latency in networking?","How can I add an event listener in JavaScript?",0,0,0.0000
+875,"How can I detect duplicate elements in an array?","How do I find duplicate rows using SQL?",0,1,0.1964
+876,"What is the time complexity of binary search?","What is the difference between HTML and CSS?",0,0,0.0000
+877,"What is packet switching?","Can you explain packet switching in computer networks?",0,1,0.4000
+878,"How can I change text color using CSS using a simple approach?","What CSS property is used to change the color of text efficiently?",0,1,0.3651
+879,"What is packet switching?","How do I remove duplicates from a Python list?",0,0,0.0000
+880,"What are ACID properties step by step?","What do the ACID properties of database transactions mean efficiently?",0,1,0.2778
+881,"What is a race condition in a program?","Can you explain race conditions in operating systems step by step?",0,1,0.1270
+882,"How do I handle exceptions in Python?","What is a race condition?",0,0,0.0000
+883,"What is the time complexity of binary search?","How do I sort query results in SQL?",0,0,0.0000
+884,"What is demand paging?","How do I check if a key exists in a Python dictionary?",0,0,0.0000
+885,"How can I remove a table from a database?","What is the time complexity of merge sort?",0,0,0.0000
+886,"How can I find the length of an array in Java using a simple approach?","How do I get the number of elements in a Java array step by step?",0,1,0.1623
+887,"What is CPU scheduling?","What is the time complexity of binary search?",0,0,0.0000
+888,"Can you explain how to convert an arraylist to an array?","What is the way to convert an ArrayList into an array in Java efficiently?",0,1,0.4018
+889,"How can I find the length of an array in Java?","How do I count rows in an SQL table?",0,0,0.0000
+890,"What is a thread in OS?","What does a thread represent in an operating system?",0,1,0.2250
+891,"What is the time complexity of merge sort?","How much time complexity does merge sort have?",0,1,0.6667
+892,"What is the best way to remove a table from a database?","What SQL command is used to delete a table step by step?",0,1,0.1169
+893,"How can I handle exceptions in java?","What is the proper way to handle exceptions in Java in a program?",0,1,0.5000
+894,"How do I split a string in Java?","What method can I use to split a String into parts in Java?",0,1,0.4286
+895,"How does the fork system call work?","What does the fork() system call do in Unix-like operating systems?",0,1,0.4018
+896,"How can I convert a string to an integer in Java?","What is a list comprehension in Python?",0,0,0.0000
+897,"How can I read a CSV file in Python?","What is the method to load a CSV file using Python?",0,1,0.5500
+898,"What is a system call?","Can you explain what a system call is in an operating system?",0,1,0.5000
+899,"How does DHCP work?","How do I find duplicate rows using SQL?",0,0,0.0000
+900,"How can I select an element by id in javascript?","What is the JavaScript method for selecting an element using its ID step by step?",0,1,0.3472
+901,"How can I handle exceptions in Java?","How can I remove a table from a database?",0,0,0.0000
+902,"How do I split a string in Java efficiently?","What method can I use to split a String into parts in Java in a program?",0,1,0.3542
+903,"How can I read a CSV file in Python?","How can I find the height of a binary tree?",0,0,0.0000
+904,"What is a composite key?","How does the fork system call work?",0,0,0.0000
+905,"What is a simple way to what is a foreign key?","Can you explain what a foreign key does in a database using a simple approach?",0,1,0.3810
+906,"How do I what is a critical section?","What does the critical section mean in process synchronization?",0,1,0.4000
+907,"How do I detect a cycle in a linked list?","What is CPU scheduling?",0,0,0.0000
+908,"How does round robin scheduling work?","How does DHCP work?",0,1,0.2250
+909,"How can I change an element's background color with CSS?","What is a router?",0,0,0.0000
+910,"What is latency in networking?","Can you explain latency in a computer network efficiently?",0,1,0.1833
+911,"Can you explain how to what is latency in networking?","Can you explain latency in a computer network in a program?",0,1,0.3667
+912,"How can I create a button in HTML?","What HTML code is used to create a button efficiently?",0,1,0.4167
+913,"Can you explain how to what is a primary key in dbms?","Can you explain the purpose of a primary key in a database efficiently?",0,1,0.4643
+914,"How do I iterate through a HashMap in Java?","What is the correct way to loop over a HashMap in Java?",0,1,0.2917
+915,"What is latency in networking?","How does round robin scheduling work?",0,0,0.0000
+916,"What is a system call?","What is a transaction in DBMS?",0,0,0.0000
+917,"What is CPU scheduling?","Can you explain CPU scheduling in an operating system?",0,1,0.4000
+918,"How can I implement a stack using an array?","What is the difference between TCP and UDP?",0,0,0.0000
+919,"What is a composite key?","What is a semaphore in OS?",0,0,0.0000
+920,"How do I read a file line by line in Java?","How do I make a website responsive?",0,0,0.0000
+921,"How do I what is method overloading in java?","Can you explain method overloading with Java methods in a program?",0,1,0.5000
+922,"Can you explain how to what is virtual memory?","Can you explain the concept of virtual memory in an operating system efficiently?",0,1,0.4286
+923,"What is a composite key?","Can you explain the meaning of a composite key in DBMS step by step?",0,1,0.2857
+924,"How can I count occurrences of an item in a Python list?","How do I iterate through a HashMap in Java?",0,0,0.0000
+925,"How can I load an external CSS file?","What is the correct way to link an external stylesheet to HTML step by step?",0,1,0.1080
+926,"How can I change text color using CSS?","How can I find the length of an array in Java?",0,0,0.0000
+927,"What is the difference between WHERE and HAVING?","What is packet switching?",0,0,0.0000
+928,"How can I find the maximum value in an integer array?","What is a firewall?",0,0,0.0000
+929,"How can I update records in SQL?","What is the SQL syntax for modifying existing records?",0,1,0.2667
+930,"How do I find the largest number in a Python list?","How do I split a string in Java?",0,0,0.0000
+931,"What is a simple way to what is a process in an operating system?","Can you explain what a process means in an operating system efficiently?",0,1,0.4375
+932,"What is a network topology step by step?","What does network topology mean in a program?",0,1,0.4167
+933,"How do I read a file line by line in Java?","How do I remove an item from a Python list?",0,0,0.0000
+934,"How do I create a dropdown menu in HTML step by step?","What HTML element can be used to create a dropdown list?",0,1,0.3333
+935,"What is the time complexity of binary search?","What is the difference between == and equals in Java?",0,0,0.0000
+936,"What is packet switching?","How can I implement a queue using two stacks?",0,0,0.0000
+937,"How can I find the maximum value in an integer array?","How can I find the shortest path in a graph?",0,1,0.1625
+938,"What is the best way to what is a mac address?","Can you explain what a MAC address represents step by step?",0,1,0.2917
+939,"What is a foreign key efficiently?","Can you explain what a foreign key does in a database?",0,1,0.4500
+940,"How can I find the maximum value in an integer array?","How can I count occurrences of an item in a Python list?",0,0,0.0000
+941,"How do I iterate through a HashMap in Java?","What is paging in operating systems?",0,0,0.0000
+942,"How does DHCP work?","How do I hide an element using CSS?",0,0,0.0000
+943,"What is the difference between HTML and CSS?","How can I convert a string to lowercase in Python?",0,0,0.0000
+944,"How do I remove an item from a Python list?","What are the ways to delete an element from a Python list?",0,1,0.2917
+945,"What is a process in an operating system?","How can I find the maximum value in an integer array?",0,0,0.0000
+946,"What is a race condition?","How do I change a font size with CSS?",0,0,0.0000
+947,"How do I validate an html form using javascript?","What is a way to validate form inputs with JavaScript?",0,1,0.5500
+948,"What is context switching?","How does DHCP work?",0,0,0.0000
+949,"How can I reverse a string in Java?","How does DHCP work?",0,0,0.0000
+950,"How can I merge two dictionaries in Python?","How do I perform an inorder traversal of a binary tree?",0,0,0.0000
+951,"What is a primary key in DBMS?","What is an IP address?",0,0,0.0000
+952,"What is virtual memory?","How can I read a CSV file in Python?",0,0,0.0000
+953,"What is an index in a database using a simple approach?","Why are indexes used in databases in a program?",0,0,0.0000
+954,"What is a firewall?","What is the role of a firewall in a network?",0,1,0.3333
+955,"How does the fork system call work?","How can I validate an HTML form using JavaScript?",0,0,0.0000
+956,"How do I count rows in an SQL table?","What SQL query can I use to count records in a table efficiently?",0,1,0.3304
+957,"Can you explain how to what is a process in an operating system?","Can you explain what a process means in an operating system step by step?",0,1,0.5714
+958,"What is a subnet mask?","How do I count rows in an SQL table?",0,0,0.0000
+959,"How can I detect duplicate elements in an array?","How can I load an external CSS file?",0,0,0.0000
+960,"What is the best way to what is context switching?","What happens during a context switch in an operating system?",0,1,0.1389
+961,"What is the best way to what is the difference between tcp and udp?","How do TCP and UDP differ in networking efficiently?",0,1,0.2778
+962,"How do I select an element by ID in JavaScript?","What is a list comprehension in Python?",0,0,0.0000
+963,"What is a simple way to how does arp work?","Can you explain the working of the Address Resolution Protocol using a simple approach?",0,1,0.1214
+964,"How does HTTP work?","What is the difference between process and thread?",0,0,0.0000
+965,"How can I implement binary search?","What is a network topology?",0,0,0.0000
+966,"How can I reverse a linked list using a simple approach?","What is the procedure to reverse a linked list using a simple approach?",0,1,0.8333
+967,"What is a firewall?","How do I iterate through a HashMap in Java?",0,0,0.0000
+968,"Can you explain how to sort a list in python?","What is the best way to arrange the elements of a Python list step by step?",0,1,0.1625
+969,"How do I create a dropdown menu in HTML?","What HTML element can be used to create a dropdown list?",0,1,0.3810
+970,"What is a semaphore in OS?","How do I hide an element using CSS?",0,0,0.0000
+971,"What is a network topology?","What does network topology mean?",0,1,0.6667
+972,"How can I change an element's background color with CSS using a simple approach?","What CSS property changes the background color of an element step by step?",0,1,0.2917
+973,"What is a system call?","What is latency in networking?",0,0,0.0000
+974,"How can I reverse a list in Python efficiently?","What is the easiest way to reverse a list using Python?",0,1,0.5500
+975,"How do I create a dropdown menu in HTML?","How do I check if a key exists in a Python dictionary?",0,0,0.0000
+976,"How do I create a thread in Java?","What is DNS?",0,0,0.0000
+977,"How do I hide an element using CSS?","What CSS can I use to make an element invisible efficiently?",0,1,0.2262
+978,"How can I merge two dictionaries in Python?","What is demand paging?",0,0,0.0000
+979,"How can I find the length of an array in java?","How do I get the number of elements in a Java array in a program?",0,1,0.2083
+980,"How can I add an event listener in JavaScript?","What is a race condition?",0,0,0.0000
+981,"How do I find the middle node of a linked list?","How can I load an external CSS file?",0,0,0.0000
+982,"How do I remove an item from a Python list?","What are the ways to delete an element from a Python list?",0,1,0.2917
+983,"What is demand paging?","How can I load an external CSS file?",0,0,0.0000
+984,"What is DNS efficiently?","What is the purpose of the Domain Name System efficiently?",0,1,0.1833
+985,"What is context switching using a simple approach?","What happens during a context switch in an operating system using a simple approach?",0,1,0.3542
+986,"What method can I use to check whether a string contains a word in java?","How do I test if a Java String contains a particular word?",0,1,0.3693
+987,"How do I center a div using CSS?","How do I handle exceptions in Python?",0,0,0.0000
+988,"What is the difference between HTML and CSS?","What is the difference between == and equals in Java?",0,1,0.4167
+989,"How can I handle exceptions in Java?","What is the proper way to handle exceptions in Java?",0,1,0.6000
+990,"What is a critical section?","How can I find the maximum value in an integer array?",0,0,0.0000
+991,"What is dynamic programming in algorithms?","How do I select an element by ID in JavaScript?",0,0,0.0000
+992,"What is a race condition?","Can you explain race conditions in operating systems?",0,1,0.1833
+993,"What is paging in operating systems in a program?","Can you explain how paging works in OS memory management?",0,1,0.1389
+994,"What is virtual memory?","How can I check whether a string contains a word in Java?",0,0,0.0000
+995,"How can I join two tables in SQL?","How can I add an event listener in JavaScript?",0,0,0.0000
+996,"What is a system call efficiently?","Can you explain what a system call is in an operating system using a simple approach?",0,1,0.3095
+997,"How can I join two tables in SQL?","How can I find the length of an array in Java?",0,0,0.0000
+998,"What is an index in a database?","How can I merge two dictionaries in Python?",0,0,0.0000
+999,"How do I find the length of a list in Python?","How do I convert an ArrayList to an array?",0,0,0.0000
+1000,"How can I find the maximum value in an integer array?","How do I find the largest number in a Python list?",0,1,0.1556

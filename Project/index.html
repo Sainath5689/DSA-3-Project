@@ -1,0 +1,1029 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Near-Duplicate Question Finder</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- =========================
+         SIDEBAR
+    ========================== -->
+
+    <aside class="sidebar">
+
+        <div class="logo">
+            <div class="logo-icon">NQ</div>
+
+            <div>
+                <h2>NearQuest</h2>
+                <span>Question Analyzer</span>
+            </div>
+        </div>
+
+        <nav class="nav-menu">
+
+            <button class="nav-item active" data-section="dashboard">
+                <span class="nav-icon">⌂</span>
+                Dashboard
+            </button>
+
+            <button class="nav-item" data-section="compare">
+                <span class="nav-icon">⇄</span>
+                Compare
+            </button>
+
+            <button class="nav-item" data-section="batch">
+                <span class="nav-icon">▤</span>
+                Batch Analysis
+            </button>
+
+            <button class="nav-item" data-section="method">
+                <span class="nav-icon">⚙</span>
+                Methodology
+            </button>
+
+            <button class="nav-item" data-section="about">
+                <span class="nav-icon">ⓘ</span>
+                About Project
+            </button>
+
+        </nav>
+
+        <div class="sidebar-bottom">
+            <div class="algorithm-card">
+
+                <span class="status-dot"></span>
+
+                <div>
+                    <strong>Algorithm Ready</strong>
+                    <small>Local analysis mode</small>
+                </div>
+
+            </div>
+        </div>
+
+    </aside>
+
+
+    <!-- =========================
+         MAIN CONTENT
+    ========================== -->
+
+    <main class="main">
+
+        <!-- TOP BAR -->
+
+        <header class="topbar">
+
+            <div>
+                <button class="mobile-menu" id="mobileMenu">
+                    ☰
+                </button>
+
+                <h1 id="pageTitle">Dashboard</h1>
+                <p id="pageSubtitle">
+                    Analyze and detect near-duplicate questions.
+                </p>
+            </div>
+
+            <div class="top-actions">
+
+                <button class="theme-btn" id="themeToggle" title="Toggle theme">
+                    ◐
+                </button>
+
+                <div class="profile">
+                    <div class="profile-avatar">SA</div>
+
+                    <div>
+                        <strong>Student Project</strong>
+                        <span>DSA Project</span>
+                    </div>
+                </div>
+
+            </div>
+
+        </header>
+
+
+        <!-- =========================
+             DASHBOARD
+        ========================== -->
+
+        <section class="page-section active" id="dashboard">
+
+            <div class="welcome">
+
+                <div>
+                    <span class="eyebrow">DSA PROJECT</span>
+
+                    <h2>
+                        Near-Duplicate Question
+                        <span>Finder</span>
+                    </h2>
+
+                    <p>
+                        Identify questions that are similar or nearly identical
+                        using shingling, hashing, LSH and dynamic programming.
+                    </p>
+
+                    <button class="primary-btn" data-go="compare">
+                        Start Comparing
+                        <span>→</span>
+                    </button>
+                </div>
+
+                <div class="hero-visual">
+
+                    <div class="orbit orbit-one"></div>
+                    <div class="orbit orbit-two"></div>
+
+                    <div class="hero-center">
+                        <span>92%</span>
+                        <small>Similarity</small>
+                    </div>
+
+                    <div class="floating-card card-one">
+                        <span>Q1</span>
+                        <small>Question</small>
+                    </div>
+
+                    <div class="floating-card card-two">
+                        <span>Q2</span>
+                        <small>Question</small>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- STATISTICS -->
+
+            <div class="stats-grid">
+
+                <div class="stat-card">
+
+                    <div class="stat-icon purple">◈</div>
+
+                    <div>
+                        <span>Total Comparisons</span>
+                        <strong id="totalComparisons">0</strong>
+                    </div>
+
+                </div>
+
+
+                <div class="stat-card">
+
+                    <div class="stat-icon green">✓</div>
+
+                    <div>
+                        <span>Near Duplicates</span>
+                        <strong id="nearDuplicates">0</strong>
+                    </div>
+
+                </div>
+
+
+                <div class="stat-card">
+
+                    <div class="stat-icon orange">≠</div>
+
+                    <div>
+                        <span>Not Duplicates</span>
+                        <strong id="notDuplicates">0</strong>
+                    </div>
+
+                </div>
+
+
+                <div class="stat-card">
+
+                    <div class="stat-icon blue">%</div>
+
+                    <div>
+                        <span>Average Similarity</span>
+                        <strong id="averageSimilarity">0%</strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- DASHBOARD GRID -->
+
+            <div class="dashboard-grid">
+
+                <div class="panel">
+
+                    <div class="panel-header">
+
+                        <div>
+                            <h3>How it works</h3>
+                            <p>Four main processing stages</p>
+                        </div>
+
+                        <button class="text-btn" data-go="method">
+                            View methodology →
+                        </button>
+
+                    </div>
+
+
+                    <div class="pipeline">
+
+                        <div class="pipeline-step">
+                            <div class="step-number">01</div>
+
+                            <div>
+                                <strong>Preprocessing</strong>
+                                <p>Clean and normalize questions.</p>
+                            </div>
+                        </div>
+
+
+                        <div class="pipeline-line"></div>
+
+
+                        <div class="pipeline-step">
+                            <div class="step-number">02</div>
+
+                            <div>
+                                <strong>K-Shingling</strong>
+                                <p>Create groups of consecutive words.</p>
+                            </div>
+                        </div>
+
+
+                        <div class="pipeline-line"></div>
+
+
+                        <div class="pipeline-step">
+                            <div class="step-number">03</div>
+
+                            <div>
+                                <strong>Hashing + LSH</strong>
+                                <p>Generate and filter candidate pairs.</p>
+                            </div>
+                        </div>
+
+
+                        <div class="pipeline-line"></div>
+
+
+                        <div class="pipeline-step">
+                            <div class="step-number">04</div>
+
+                            <div>
+                                <strong>DP Verification</strong>
+                                <p>Perform exact similarity verification.</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="panel quick-panel">
+
+                    <div class="panel-header">
+
+                        <div>
+                            <h3>Quick Compare</h3>
+                            <p>Test two questions</p>
+                        </div>
+
+                    </div>
+
+                    <textarea
+                        id="quickQ1"
+                        placeholder="Enter first question..."
+                    ></textarea>
+
+                    <textarea
+                        id="quickQ2"
+                        placeholder="Enter second question..."
+                    ></textarea>
+
+                    <button class="primary-btn full" id="quickCompare">
+                        Compare Questions
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <!-- RECENT -->
+
+            <div class="panel">
+
+                <div class="panel-header">
+
+                    <div>
+                        <h3>Recent Comparisons</h3>
+                        <p>Your latest analyses</p>
+                    </div>
+
+                    <button class="text-btn" id="clearHistory">
+                        Clear history
+                    </button>
+
+                </div>
+
+                <div class="table-wrapper">
+
+                    <table>
+
+                        <thead>
+                            <tr>
+                                <th>Question Pair</th>
+                                <th>Similarity</th>
+                                <th>Result</th>
+                                <th>Time</th>
+                            </tr>
+                        </thead>
+
+                        <tbody id="recentTable">
+
+                            <tr class="empty-row">
+                                <td colspan="4">
+                                    No comparisons yet.
+                                </td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             COMPARE
+        ========================== -->
+
+        <section class="page-section" id="compare">
+
+            <div class="section-heading">
+
+                <div>
+                    <span class="eyebrow">ANALYSIS</span>
+
+                    <h2>Compare Questions</h2>
+
+                    <p>
+                        Enter two questions to check whether they are near duplicates.
+                    </p>
+                </div>
+
+                <div class="method-badge">
+                    <span class="status-dot"></span>
+                    Algorithm Ready
+                </div>
+
+            </div>
+
+
+            <div class="comparison-grid">
+
+                <div class="question-card">
+
+                    <div class="question-header">
+
+                        <div class="question-number">01</div>
+
+                        <div>
+                            <h3>Question 1</h3>
+                            <span>Original question</span>
+                        </div>
+
+                    </div>
+
+                    <textarea
+                        id="question1"
+                        placeholder="Example: What is a binary search tree?"
+                    ></textarea>
+
+                    <div class="character-count">
+                        <span id="count1">0</span> characters
+                    </div>
+
+                </div>
+
+
+                <div class="swap-icon">
+                    ⇄
+                </div>
+
+
+                <div class="question-card">
+
+                    <div class="question-header">
+
+                        <div class="question-number">02</div>
+
+                        <div>
+                            <h3>Question 2</h3>
+                            <span>Comparison question</span>
+                        </div>
+
+                    </div>
+
+                    <textarea
+                        id="question2"
+                        placeholder="Example: Explain binary search trees."
+                    ></textarea>
+
+                    <div class="character-count">
+                        <span id="count2">0</span> characters
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="compare-action">
+
+                <button class="primary-btn large" id="compareBtn">
+                    Analyze Similarity
+                    <span>→</span>
+                </button>
+
+                <button class="secondary-btn" id="clearBtn">
+                    Clear
+                </button>
+
+            </div>
+
+
+            <!-- RESULT -->
+
+            <div class="result-panel hidden" id="resultPanel">
+
+                <div class="result-header">
+
+                    <div>
+                        <span class="eyebrow">ANALYSIS RESULT</span>
+
+                        <h2 id="resultTitle">
+                            Near Duplicate
+                        </h2>
+
+                        <p id="resultDescription">
+                            The questions have substantial similarity.
+                        </p>
+                    </div>
+
+                    <div class="result-score">
+
+                        <div class="score-circle">
+
+                            <svg viewBox="0 0 120 120">
+
+                                <circle
+                                    class="score-bg"
+                                    cx="60"
+                                    cy="60"
+                                    r="52"
+                                ></circle>
+
+                                <circle
+                                    class="score-progress"
+                                    id="scoreProgress"
+                                    cx="60"
+                                    cy="60"
+                                    r="52"
+                                ></circle>
+
+                            </svg>
+
+                            <div class="score-value">
+                                <strong id="scoreValue">0%</strong>
+                                <span>similar</span>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="result-details">
+
+                    <div class="detail-card">
+
+                        <span>Classification</span>
+
+                        <strong id="classification">
+                            -
+                        </strong>
+
+                    </div>
+
+
+                    <div class="detail-card">
+
+                        <span>Shingle Similarity</span>
+
+                        <strong id="shingleScore">
+                            -
+                        </strong>
+
+                    </div>
+
+
+                    <div class="detail-card">
+
+                        <span>DP Verification</span>
+
+                        <strong id="dpScore">
+                            -
+                        </strong>
+
+                    </div>
+
+
+                    <div class="detail-card">
+
+                        <span>Processing</span>
+
+                        <strong id="processingTime">
+                            -
+                        </strong>
+
+                    </div>
+
+                </div>
+
+
+                <div class="result-method">
+
+                    <span>Method used</span>
+
+                    <div class="method-tags">
+
+                        <span>K-Shingling</span>
+                        <span>Double Hashing</span>
+                        <span>LSH</span>
+                        <span>DP Verification</span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             BATCH ANALYSIS
+        ========================== -->
+
+        <section class="page-section" id="batch">
+
+            <div class="section-heading">
+
+                <div>
+                    <span class="eyebrow">BATCH PROCESSING</span>
+
+                    <h2>Batch Analysis</h2>
+
+                    <p>
+                        Upload a CSV file containing question pairs.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="upload-panel">
+
+                <div class="upload-icon">
+                    ⇧
+                </div>
+
+                <h3>Upload Question Dataset</h3>
+
+                <p>
+                    Select a CSV file containing your question pairs.
+                </p>
+
+                <label class="upload-btn">
+
+                    Choose CSV File
+
+                    <input
+                        type="file"
+                        id="csvFile"
+                        accept=".csv"
+                    >
+
+                </label>
+
+                <span class="file-name" id="fileName">
+                    No file selected
+                </span>
+
+            </div>
+
+
+            <div class="batch-controls">
+
+                <button
+                    class="primary-btn"
+                    id="analyzeCSV"
+                    disabled
+                >
+                    Analyze Dataset
+                </button>
+
+                <button
+                    class="secondary-btn"
+                    id="downloadResults"
+                    disabled
+                >
+                    Download Results
+                </button>
+
+            </div>
+
+
+            <div class="batch-stats hidden" id="batchStats">
+
+                <div class="stat-card">
+                    <div class="stat-icon purple">▤</div>
+
+                    <div>
+                        <span>Total Pairs</span>
+                        <strong id="batchTotal">0</strong>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon green">✓</div>
+
+                    <div>
+                        <span>Near Duplicates</span>
+                        <strong id="batchNear">0</strong>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon orange">≠</div>
+
+                    <div>
+                        <span>Not Duplicate</span>
+                        <strong id="batchNot">0</strong>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon blue">%</div>
+
+                    <div>
+                        <span>Average Similarity</span>
+                        <strong id="batchAverage">0%</strong>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="panel batch-table-panel">
+
+                <div class="panel-header">
+
+                    <div>
+                        <h3>Analysis Results</h3>
+                        <p>Processed question pairs</p>
+                    </div>
+
+                </div>
+
+                <div class="table-wrapper">
+
+                    <table>
+
+                        <thead>
+
+                            <tr>
+                                <th>#</th>
+                                <th>Question 1</th>
+                                <th>Question 2</th>
+                                <th>Similarity</th>
+                                <th>Result</th>
+                            </tr>
+
+                        </thead>
+
+                        <tbody id="batchTable">
+
+                            <tr class="empty-row">
+
+                                <td colspan="5">
+                                    Upload and analyze a CSV file to see results.
+                                </td>
+
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             METHODOLOGY
+        ========================== -->
+
+        <section class="page-section" id="method">
+
+            <div class="section-heading">
+
+                <div>
+                    <span class="eyebrow">DSA METHODOLOGY</span>
+
+                    <h2>How the Algorithm Works</h2>
+
+                    <p>
+                        The system combines hashing, LSH and dynamic programming
+                        to identify similar questions.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="methodology-grid">
+
+                <div class="method-card">
+
+                    <div class="method-number">01</div>
+
+                    <h3>Preprocessing</h3>
+
+                    <p>
+                        Questions are converted into a normalized form.
+                        Text is converted to lowercase and unnecessary
+                        punctuation is removed.
+                    </p>
+
+                    <code>lowercase → clean → normalize</code>
+
+                </div>
+
+
+                <div class="method-card">
+
+                    <div class="method-number">02</div>
+
+                    <h3>K-Shingling</h3>
+
+                    <p>
+                        Questions are divided into consecutive groups of
+                        words called k-shingles.
+                    </p>
+
+                    <code>question → word shingles</code>
+
+                </div>
+
+
+                <div class="method-card">
+
+                    <div class="method-number">03</div>
+
+                    <h3>Double Polynomial Hashing</h3>
+
+                    <p>
+                        Shingles are converted into numerical hash values
+                        using polynomial hashing.
+                    </p>
+
+                    <code>shingle → hash₁ + hash₂</code>
+
+                </div>
+
+
+                <div class="method-card">
+
+                    <div class="method-number">04</div>
+
+                    <h3>LSH Candidate Filtering</h3>
+
+                    <p>
+                        Locality-Sensitive Hashing reduces the number of
+                        question pairs requiring detailed comparison.
+                    </p>
+
+                    <code>hash signatures → candidates</code>
+
+                </div>
+
+
+                <div class="method-card">
+
+                    <div class="method-number">05</div>
+
+                    <h3>Exact Verification</h3>
+
+                    <p>
+                        Candidate questions are verified using a
+                        Dynamic Programming based comparison.
+                    </p>
+
+                    <code>DP → similarity score</code>
+
+                </div>
+
+
+                <div class="method-card highlight">
+
+                    <div class="method-number">06</div>
+
+                    <h3>Classification</h3>
+
+                    <p>
+                        The calculated similarity is compared against
+                        a selected threshold to classify the pair.
+                    </p>
+
+                    <code>score ≥ threshold → near duplicate</code>
+
+                </div>
+
+            </div>
+
+
+            <div class="architecture-panel">
+
+                <h3>System Architecture</h3>
+
+                <div class="architecture">
+
+                    <div class="arch-box">Input Questions</div>
+
+                    <span>→</span>
+
+                    <div class="arch-box">Preprocessing</div>
+
+                    <span>→</span>
+
+                    <div class="arch-box">Shingling</div>
+
+                    <span>→</span>
+
+                    <div class="arch-box">Hashing</div>
+
+                    <span>→</span>
+
+                    <div class="arch-box">LSH</div>
+
+                    <span>→</span>
+
+                    <div class="arch-box">DP</div>
+
+                    <span>→</span>
+
+                    <div class="arch-box final">Result</div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             ABOUT
+        ========================== -->
+
+        <section class="page-section" id="about">
+
+            <div class="about-hero">
+
+                <span class="eyebrow">DSA PROJECT</span>
+
+                <h2>
+                    Near-Duplicate Question
+                    <span>Finder for Q&A Platforms</span>
+                </h2>
+
+                <p>
+                    A data-structures-and-algorithms based system designed
+                    to identify questions that are similar or nearly identical.
+                </p>
+
+            </div>
+
+
+            <div class="about-grid">
+
+                <div class="about-card">
+
+                    <h3>Problem Statement</h3>
+
+                    <p>
+                        Q&A platforms can contain multiple questions that
+                        express the same or very similar information.
+                        Detecting these questions manually can be difficult
+                        when the dataset becomes large.
+                    </p>
+
+                </div>
+
+
+                <div class="about-card">
+
+                    <h3>Objective</h3>
+
+                    <p>
+                        Develop an efficient algorithmic solution for
+                        identifying near-duplicate questions using
+                        shingling, hashing, LSH and exact verification.
+                    </p>
+
+                </div>
+
+
+                <div class="about-card">
+
+                    <h3>Technologies</h3>
+
+                    <div class="technology-list">
+
+                        <span>Java</span>
+                        <span>HTML5</span>
+                        <span>CSS3</span>
+                        <span>JavaScript</span>
+                        <span>CSV</span>
+                        <span>DSA</span>
+
+                    </div>
+
+                </div>
+
+
+                <div class="about-card">
+
+                    <h3>Project Modules</h3>
+
+                    <ul class="module-list">
+
+                        <li>Question preprocessing</li>
+                        <li>K-shingling</li>
+                        <li>Double polynomial hashing</li>
+                        <li>LSH candidate filtering</li>
+                        <li>Exact verification</li>
+                        <li>Result visualization</li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- TOAST -->
+
+    <div class="toast" id="toast">
+
+        <span id="toastMessage">
+            Done
+        </span>
+
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
